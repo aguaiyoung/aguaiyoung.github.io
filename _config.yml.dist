@@ -1,8 +1,8 @@
-title: aguai-wiki
-description: 光之世界
+title: git-wiki
+description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
 show_downloads: true
 git_branch: master
-logo_url: https://github.com/aguaiyoung/aguaiyoung.github.io/blob/master/logo.png
+logo_url:
 google_analytics:
 theme: 
 wiki_folder: wiki
