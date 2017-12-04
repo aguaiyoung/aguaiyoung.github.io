@@ -12,15 +12,13 @@
 
 ## SUNSET BOULEVARD
 
-[wslb](wiki/sunset.md)
+[sunset](wiki/sunset.md)
 ## WSLB
 
 [wslb](wiki/wslb.md)
 ## F-STACK
 
 [f-stack](wiki/fstack.md)
-**Note:**
-
 ## DPDK
 
 [Data Plane Development Kit](wiki/dpdk.md)
