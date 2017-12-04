@@ -20,15 +20,10 @@ rtl: false
 owner:
   name:           aguaiyoung
   avatar:         "https://aguaiyoung.github.io"
-  email:          "aguaiyoung"
+  email:          "aguaiyoung@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
   twitter: aguaiyoung
   github: https://aguaiyoung.github.io
-  stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
-  linkedin: https://www.linkedin.com/in/vinitatlinkedin
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-  #qq: 970921128
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
