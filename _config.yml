@@ -1,3 +1,37 @@
-theme: jekyll-theme-hacker
-paginate: 5 # 指定每页多少条
-paginate_path: "page:num" # 指定每页的url
+name: 光之世界
+description: >
+    记录工作生活点滴 
+    
+about: >
+    喜欢在你的生活中隐形，存在的证据只是一个声音，每天以不见面的方式见面，即使有缘相逢距离也会在不知觉的一瞬间再次拉开；然而联系我的声音和你的耳鼓之间的那个场，是无限大又无限小的，那种让人着迷的看不见的真实，让我不管走多远都会像风筝一样再飞回来。
+master_repo: false
+url: "https://aguaiyoung.github.io"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-theme-hacker']
+
+paginate: 5 #指定每页多少条
+
+logo:             logo.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           aguaiyoung
+  avatar:         "https://aguaiyoung.github.io"
+  email:          "aguaiyoung"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: aguaiyoung
+  github: https://aguaiyoung.github.io
+  stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
+  linkedin: https://www.linkedin.com/in/vinitatlinkedin
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+  #qq: 970921128
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
