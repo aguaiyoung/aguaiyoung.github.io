@@ -10,7 +10,7 @@
   在都市忙碌的浮雕上, 每周一到周五19:00-20:00, 《落日大道》带你体会临界状态的美, 抒发临界状态的烦恼, 遐想临界过后、一切皆有可能的未来生活。
 
 ## 往期节目
-   <img src="http://english.cri.cn/ce_easyfm/images/sunset-01.jpg"></img>
+   <img src="http://english.cri.cn/ce_easyfm/images/sunset-01.jpg">
    
    [往期下载](wiki/ss.md)
 ## 王璐语录
