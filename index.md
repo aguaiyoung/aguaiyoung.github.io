@@ -27,4 +27,4 @@
 
 - [white paper](wiki/blog.md)
 
-- [aguai's world](wiki/aguai.md)
+- [aguai world](wiki/aguai.md)
