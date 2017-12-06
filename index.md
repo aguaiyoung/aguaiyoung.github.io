@@ -27,5 +27,6 @@
 
 [High-performance Regular Expression Matching Library](wiki/hyperscan.md)
 
-## 常用链接
+## 个人博客
 
+- [white paper](./index.html)
