@@ -26,3 +26,5 @@
 ## BLOG
 
 - [white paper](wiki/blog.md)
+
+- [aguai's world](wiki/aguai.md)
