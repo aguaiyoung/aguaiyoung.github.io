@@ -13,6 +13,7 @@
    <img src="http://english.cri.cn/ce_easyfm/images/sunset-01.jpg" >
    
 - **[往期下载](./ss.md)**
+
 ## 王璐语录
 
   喜欢在你的生活中隐形，存在的证据只是一个声音，每天以不见面的方式见面，即使有缘相逢距离也会在不知觉的一瞬间再次拉开；
@@ -28,4 +29,4 @@
   - 王璐
    
 
-   [王璐语录](wiki/jade_code.md)
+- [王璐语录](./jade_code.md)
