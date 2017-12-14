@@ -1,7 +1,10 @@
+<p><a href="https://aguaiyoung.github.io/wiki/music.html">在线播放</a>  </p>
 ## 2005年
 ### 2005年05月
 - [2005-05](https://pan.baidu.com/s/1bQpqYa) 密码: 85fa
-  <a href="0403b.wma">play music</a>
+  
+<p><a href="0403b.wma">0403b</a></p>
+
 ### 2005年06月
 - [2005-06]() 
 
