@@ -15,9 +15,12 @@
             var description = 'Memory our fadeaway time ';
 
             $('body').ttwMusicPlayer(myPlaylist, {
-                autoPlay:true, 
+                autoplay:true, 
                 description:description,
                 tracksToShow:10,
+                ratingCallback:function(index, playlistItem, rating){
+                //some logic to process the rating, perhaps through an ajax call
+                },
                 jPlayer:{
                     swfPath:'../plugin/jquery-jplayer' //You need to override the default swf path any time the directory structure changes
                 }
