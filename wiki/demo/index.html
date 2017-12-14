@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <title></title>
+    <title>aguai's music</title>
     <link rel="stylesheet" type="text/css" href="../plugin/css/style.css">
     <link rel="stylesheet" type="text/css" href="css/demo.css">
     <script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
@@ -12,11 +12,12 @@
 
     <script type="text/javascript">
         $(document).ready(function(){
-            var description = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id tortor nisi. Aenean sodales diam ac lacus elementum scelerisque. Suspendisse a dui vitae lacus faucibus venenatis vel id nisl. Proin orci ante, ultricies nec interdum at, iaculis venenatis nulla. ';
+            var description = 'Memory our fadeaway time ';
 
             $('body').ttwMusicPlayer(myPlaylist, {
-                autoPlay:false, 
+                autoPlay:true, 
                 description:description,
+                tracksToShow:10,
                 jPlayer:{
                     swfPath:'../plugin/jquery-jplayer' //You need to override the default swf path any time the directory structure changes
                 }
@@ -26,7 +27,5 @@
 </head>
 <body>
 
-<div id="title"></div>
-<a href="http://www.codebasehero.com/download?file=music-player" id="download">Download Here</a>
 </body>
 </html>

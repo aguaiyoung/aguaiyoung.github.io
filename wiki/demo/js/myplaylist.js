@@ -7,16 +7,14 @@
  */
 
 var myPlaylist = [
-
-    {
-        mp3:'mix/1.mp3',
-        oga:'mix/1.ogg',
-        title:'Sample',
-        artist:'Sample',
-        rating:4,
+   {
+        mp3:'mix/20130107.mp3',
+        title:'20130107 feiyuxiu visitor Xu wei',
+        artist:'Xiaofei,Yu zhou,Xu wei',
+        rating:5,
         buy:'#',
-        price:'0.99',
-        duration:'0:30',
-        cover:'mix/1.png'
+        duration:'45:28',
+        cover:'mix/feiyuxiu.png'
     }
+
 ];
