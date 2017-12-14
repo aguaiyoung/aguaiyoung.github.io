@@ -1,7 +1,7 @@
 ## 2005年
 ### 2005年05月
 - [2005-05](https://pan.baidu.com/s/1bQpqYa) 密码: 85fa
-
+  <a href="0403b.wma">play music</a>
 ### 2005年06月
 - [2005-06]() 
 
@@ -32,3 +32,5 @@
 ## 2009年
 
 ## 2010年
+
+<script type="text/javascript" src="http://mediaplayer.yahoo.com/js">
