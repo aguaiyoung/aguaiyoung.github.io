@@ -15,6 +15,14 @@ var myPlaylist = [
         buy:'#',
         duration:'45:28',
         cover:'mix/feiyuxiu.png'
+    },
+    {
+        ogg:'mix/nanfang.ogg',
+        title:'nanfang',
+        artist:'dada band',
+        rating:4.0,
+        buy:'#',
+        duration:'4:32',
+        cover:'mix/nanfang.png'
     }
-
 ];
