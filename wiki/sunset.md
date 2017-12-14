@@ -30,3 +30,7 @@
    
 
 - [王璐语录](./jade_code.md)
+
+<a href="song.mp3">play music</a>
+<script type="text/javascript" src="http://mediaplayer.yahoo.com/js">
+</script>
