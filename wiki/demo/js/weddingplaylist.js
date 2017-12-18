@@ -14,6 +14,6 @@ var myPlaylist = [
         rating:5,
         buy:'#',
         duration:'4:3',
-        cover:'mix/zc_2.png'
+        cover:'mix/zc2.png'
     }
 ];
