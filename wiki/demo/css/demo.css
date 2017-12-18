@@ -28,6 +28,15 @@ body {
     width:334px;
 }
 
+#title1{
+    background:transparent url(../images/zc1.jpg) 0 0 scroll;
+    position:absolute;
+    top:60px;
+    left:24px;
+    height:403px;
+    width:570px;
+}
+
 #download{
     position:absolute;
     top:132px;
