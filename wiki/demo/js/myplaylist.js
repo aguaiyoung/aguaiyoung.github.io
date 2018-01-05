@@ -7,7 +7,16 @@
  */
 
 var myPlaylist = [
-   {
+     {
+        mp3:'mix/2006-04-03.mp3',
+        title:'2006-04-03 ss b',
+        artist:'Jade Wang',
+        rating:5,
+        buy:'#',
+        duration:'00:25',
+        cover:'mix/sunset.png'
+     }, 
+     {
         mp3:'mix/20130107.mp3',
         title:'20130107 feiyuxiu visitor Xu wei',
         artist:'Xiaofei,Yu zhou,Xu wei',
