@@ -44,5 +44,5 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-113477938-1');
+  gtag('config', 'GA_TRACKING_ID');
 </script>
