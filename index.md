@@ -29,7 +29,7 @@
 [High-performance Regular Expression Matching Library](wiki/hyperscan.md)
 ## CRAWLER
 
--- [python crawler](wiki/index.html)
+- [python crawler](wiki/index.html)
 ## BLOG
 
 - [white paper](wiki/blog.md)

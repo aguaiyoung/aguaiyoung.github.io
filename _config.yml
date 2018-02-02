@@ -18,3 +18,8 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
+deploy:
+    type: git
+    repo:
+      github: git@github.com:aguaiyoung.github.io
+      coding: git@git.coding.net:aguaiyoung,master
