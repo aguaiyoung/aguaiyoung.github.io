@@ -1,9 +1,10 @@
 title: linux-aguai
 description: wiki for aguai
+show_chat: true
 show_downloads: false
 git_branch: master
 logo_url: https://github.com/aguaiyoung/aguaiyoung.github.io/blob/master/logo.png?raw=true
-google_analytics:
+google_analytics: true
 theme: 
 wiki_folder: wiki
 use_github_wiki: false
