@@ -384,3 +384,35 @@ screen and (max-width: 480px) {
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
 }
+
+.infobox {
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+}
+
+.BBC {
+    letter-spacing: 0.5em;
+    padding-left: 0.5em;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+/* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}

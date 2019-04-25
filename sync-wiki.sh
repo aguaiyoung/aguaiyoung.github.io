@@ -9,4 +9,4 @@ cd wiki
 git pull origin master
 cd ..
 git commit -a -m "updated wiki"
-git push origin master
+sudo git push origin master
