@@ -4,9 +4,9 @@
 # in case you're using github internal wiki option
 #
 
-git pull origin master
-cd wiki
-git pull origin master
-cd ..
+rm -rf Gemfile.lock
+rm -rf _site/
+git status ./
+git add ./
 git commit -a -m "updated wiki"
 git push origin master
