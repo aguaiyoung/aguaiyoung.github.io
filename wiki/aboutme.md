@@ -18,3 +18,6 @@ redirect_from: "/"
 <tr><th scope="row" style="padding-right: 1em">Weibo:</th><td><a href="https://weibo.com/u/2230652295">@怪咖乖乖</a></td></tr>
 </table>
 ## Nerver Quit
+<img style="width: 600px; height: 560px;" src="/images/bg/default_Photo-by-Lorenz-Holder.jpg">
+
+&copy; photo by Lorenz-Holder
