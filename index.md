@@ -13,11 +13,18 @@
 **然而联系我的声音和你的耳鼓之间的那个场，是无限大又无限小的，那种让人着迷的看不见的真实，让我不管走多远都会像风筝一样再飞回来。**
 
 ## MUSIC
-[sunset](wiki/sunset.md)
+- [sunset](wiki/sunset.md)
+- [歌单](wiki/demo/index.html)
 
 ## LIFE
+- 旅行
+- 照片
 
 ## BOOK
+- 看过的书
+- 计划看的书
+
+## FRIENDS
 
 ## WORK
 

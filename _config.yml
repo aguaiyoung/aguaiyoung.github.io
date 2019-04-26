@@ -25,7 +25,7 @@ git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: http://aguaiyoung.github.io/logo.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: 
+google_analytics: UA-113477938-1
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: wiki
 # (boolean) if you're using github wiki as submodule then this config
@@ -43,7 +43,7 @@ use_prose_io: true
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
+google_cse_token: 016781889395209429092:yphmvxwimfq
 
 #
 # Jekyll configurations
