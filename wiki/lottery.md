@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
   <meta charset="utf-8"/>
@@ -7,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri Apr 26 09:20:06 2019 </p>
+    <p>30 links 更新时间 Sat Apr 27 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-25 2019047期开奖号码：03,11,18,25,30,33, 蓝球：14 一等奖 注数: 1 奖金 :10,000,000</a></li>
