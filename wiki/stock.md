@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>股票数据爬虫结果</h1>
-    <p>507 links 更新时间 Wed May  1 12:15:24 2019</p>
+    <p>507 links 更新时间 Thu May  2 12:15:23 2019</p>
     <p>统计一共 206 涨 233 跌</p>
   </center>
     <ol align="left">

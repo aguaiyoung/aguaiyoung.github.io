@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed May  1 09:20:05 2019 </p>
+    <p>30 links 更新时间 Thu May  2 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-30 2019049期开奖号码：03,10,13,22,23,28, 蓝球：15 一等奖 注数: 9 奖金 :6,552,485</a></li>
