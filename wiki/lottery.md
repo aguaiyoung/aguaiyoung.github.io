@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon May  6 09:20:07 2019 </p>
+    <p>30 links 更新时间 Tue May  7 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-05 2019051期开奖号码：08,09,10,13,15,28, 蓝球：09 一等奖 注数: 13 奖金 :5,503,869</a></li>
