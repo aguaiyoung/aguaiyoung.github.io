@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed May  8 09:20:19 2019 </p>
+    <p>30 links 更新时间 Thu May  9 09:20:20 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-07 2019052期开奖号码：03,06,09,13,16,19, 蓝球：16 一等奖 注数: 153 奖金 :5,117,604</a></li>
