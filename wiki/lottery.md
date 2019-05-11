@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri May 10 09:20:08 2019 </p>
+    <p>30 links 更新时间 Sat May 11 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-09 2019053期开奖号码：04,16,22,25,29,31, 蓝球：08 一等奖 注数: 12 奖金 :5,969,643</a></li>
