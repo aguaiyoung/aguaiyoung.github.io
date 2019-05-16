@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed May 15 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu May 16 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-14 2019055期开奖号码：01,06,11,15,19,31, 蓝球：10 一等奖 注数: 2 奖金 :10,000,000</a></li>
