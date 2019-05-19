@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat May 18 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun May 19 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-16 2019056期开奖号码：13,14,17,19,21,29, 蓝球：01 一等奖 注数: 1 奖金 :10,000,000</a></li>
