@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon May 20 09:20:07 2019 </p>
+    <p>30 links 更新时间 Tue May 21 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-19 2019057期开奖号码：04,05,06,08,13,18, 蓝球：16 一等奖 注数: 7 奖金 :8,216,242</a></li>
