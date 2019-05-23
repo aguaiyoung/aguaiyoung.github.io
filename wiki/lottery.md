@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed May 22 09:20:07 2019 </p>
+    <p>30 links 更新时间 Thu May 23 09:20:11 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-21 2019058期开奖号码：07,08,12,21,23,27, 蓝球：12 一等奖 注数: 20 奖金 :5,260,714</a></li>
