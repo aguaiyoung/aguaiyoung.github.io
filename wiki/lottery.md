@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon May 27 09:20:08 2019 </p>
+    <p>30 links 更新时间 Tue May 28 09:20:08 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-05-26 2019060期开奖号码：03,04,14,20,23,27, 蓝球：01 一等奖 注数: 2 奖金 :10,000,000</a></li>
