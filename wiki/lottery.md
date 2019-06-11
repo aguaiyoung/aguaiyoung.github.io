@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Jun 10 09:20:07 2019 </p>
+    <p>30 links 更新时间 Tue Jun 11 09:20:13 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-09 2019066期开奖号码：01,14,17,20,22,32, 蓝球：04 一等奖 注数: 6 奖金 :8,522,847</a></li>
