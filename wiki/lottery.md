@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jun 12 09:20:04 2019 </p>
+    <p>30 links 更新时间 Thu Jun 13 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-11 2019067期开奖号码：04,06,08,11,30,33, 蓝球：11 一等奖 注数: 5 奖金 :7,973,990</a></li>
