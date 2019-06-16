@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Jun 15 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun Jun 16 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-13 2019068期开奖号码：03,14,20,24,26,33, 蓝球：10 一等奖 注数: 6 奖金 :8,093,762</a></li>
