@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jun 19 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu Jun 20 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-18 2019070期开奖号码：06,15,18,19,24,32, 蓝球：09 一等奖 注数: 3 奖金 :10,000,000</a></li>
