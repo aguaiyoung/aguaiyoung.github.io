@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Jun 24 09:20:06 2019 </p>
+    <p>30 links 更新时间 Tue Jun 25 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-23 2019072期开奖号码：02,09,13,15,22,30, 蓝球：15 一等奖 注数: 10 奖金 :6,995,170</a></li>
