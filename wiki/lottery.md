@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jun 26 09:20:08 2019 </p>
+    <p>30 links 更新时间 Thu Jun 27 09:20:09 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-25 2019073期开奖号码：01,02,06,12,16,18, 蓝球：08 一等奖 注数: 17 奖金 :5,684,254</a></li>
