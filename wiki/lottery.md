@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri Jun 28 09:20:11 2019 </p>
+    <p>30 links 更新时间 Sat Jun 29 09:20:08 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-27 2019074期开奖号码：12,21,27,29,31,33, 蓝球：04 一等奖 注数: 4 奖金 :10,000,000</a></li>
