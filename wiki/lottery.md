@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sun Jun 30 09:20:07 2019 </p>
+    <p>30 links 更新时间 Mon Jul  1 09:20:17 2019 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-30 2019075期开奖号码：05,08,20,22,31,33, 蓝球：03 一等奖 注数: 2 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-27 2019074期开奖号码：12,21,27,29,31,33, 蓝球：04 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-25 2019073期开奖号码：01,02,06,12,16,18, 蓝球：08 一等奖 注数: 17 奖金 :5,684,254</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-23 2019072期开奖号码：02,09,13,15,22,30, 蓝球：15 一等奖 注数: 10 奖金 :6,995,170</a></li>
@@ -38,7 +39,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-28 2019048期开奖号码：03,07,10,12,18,29, 蓝球：10 一等奖 注数: 8 奖金 :7,251,672</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-25 2019047期开奖号码：03,11,18,25,30,33, 蓝球：14 一等奖 注数: 1 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-23 2019046期开奖号码：02,12,16,22,25,32, 蓝球：06 一等奖 注数: 17 奖金 :5,847,483</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-04-21 2019045期开奖号码：01,06,17,19,27,31, 蓝球：14 一等奖 注数: 7 奖金 :8,172,099</a></li>
         </ol>
   </body>
 </html>
