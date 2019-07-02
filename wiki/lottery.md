@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Jul  1 09:20:17 2019 </p>
+    <p>30 links 更新时间 Tue Jul  2 09:20:12 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-06-30 2019075期开奖号码：05,08,20,22,31,33, 蓝球：03 一等奖 注数: 2 奖金 :10,000,000</a></li>
