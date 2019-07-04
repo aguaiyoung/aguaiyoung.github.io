@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jul  3 09:20:11 2019 </p>
+    <p>30 links 更新时间 Thu Jul  4 09:20:11 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-02 2019076期开奖号码：12,15,19,20,29,32, 蓝球：14 一等奖 注数: 4 奖金 :10,000,000</a></li>
