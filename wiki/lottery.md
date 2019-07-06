@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri Jul  5 09:20:10 2019 </p>
+    <p>30 links 更新时间 Sat Jul  6 09:20:09 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-04 2019077期开奖号码：09,11,13,18,21,22, 蓝球：15 一等奖 注数: 1 奖金 :10,000,000</a></li>
