@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jul 10 09:20:10 2019 </p>
+    <p>30 links 更新时间 Thu Jul 11 09:20:09 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-09 2019079期开奖号码：01,03,06,09,19,31, 蓝球：16 一等奖 注数: 15 奖金 :6,163,816</a></li>
