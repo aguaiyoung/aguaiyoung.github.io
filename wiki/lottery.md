@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Jul 13 09:20:09 2019 </p>
+    <p>30 links 更新时间 Sun Jul 14 09:20:08 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-11 2019080期开奖号码：03,06,08,20,24,32, 蓝球：07 一等奖 注数: 7 奖金 :6,502,641</a></li>
