@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Jul 15 09:20:10 2019 </p>
+    <p>30 links 更新时间 Tue Jul 16 09:20:10 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-14 2019081期开奖号码：05,24,27,29,31,32, 蓝球：10 一等奖 注数: 5 奖金 :8,910,511</a></li>
