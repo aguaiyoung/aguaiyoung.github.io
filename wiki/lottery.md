@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jul 17 09:20:08 2019 </p>
+    <p>30 links 更新时间 Thu Jul 18 09:20:08 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-16 2019082期开奖号码：07,16,19,22,24,28, 蓝球：02 一等奖 注数: 5 奖金 :8,270,886</a></li>
