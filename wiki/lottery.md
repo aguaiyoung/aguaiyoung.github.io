@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Jul 20 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun Jul 21 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-18 2019083期开奖号码：06,15,17,26,28,31, 蓝球：03 一等奖 注数: 10 奖金 :6,795,196</a></li>
