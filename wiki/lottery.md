@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Jul 22 09:20:05 2019 </p>
+    <p>30 links 更新时间 Tue Jul 23 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-21 2019084期开奖号码：04,08,14,18,20,27, 蓝球：03 一等奖 注数: 15 奖金 :5,979,203</a></li>
