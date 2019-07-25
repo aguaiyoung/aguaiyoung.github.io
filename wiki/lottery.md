@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Jul 24 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu Jul 25 09:20:13 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-23 2019085期开奖号码：01,04,14,18,24,29, 蓝球：04 一等奖 注数: 12 奖金 :6,519,571</a></li>
