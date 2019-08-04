@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Aug  3 09:20:06 2019 </p>
+    <p>30 links 更新时间 Sun Aug  4 09:20:05 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-01 2019089期开奖号码：02,04,14,16,20,22, 蓝球：11 一等奖 注数: 7 奖金 :6,961,515</a></li>
