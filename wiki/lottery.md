@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Aug  5 09:20:05 2019 </p>
+    <p>30 links 更新时间 Tue Aug  6 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-04 2019090期开奖号码：02,03,06,08,14,22, 蓝球：04 一等奖 注数: 2 奖金 :10,000,000</a></li>
