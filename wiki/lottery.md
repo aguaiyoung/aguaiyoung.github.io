@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Aug 12 09:20:06 2019 </p>
+    <p>30 links 更新时间 Tue Aug 13 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-11 2019093期开奖号码：05,07,08,09,20,22, 蓝球：02 一等奖 注数: 27 奖金 :5,590,139</a></li>
