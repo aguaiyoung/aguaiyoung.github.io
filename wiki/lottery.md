@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Aug 14 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu Aug 15 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-13 2019094期开奖号码：05,10,12,18,19,27, 蓝球：06 一等奖 注数: 8 奖金 :6,822,140</a></li>
