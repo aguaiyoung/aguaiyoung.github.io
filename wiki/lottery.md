@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Aug 17 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun Aug 18 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-15 2019095期开奖号码：02,05,14,19,21,28, 蓝球：01 一等奖 注数: 3 奖金 :10,000,000</a></li>
