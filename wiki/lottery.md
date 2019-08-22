@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Aug 21 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu Aug 22 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-20 2019097期开奖号码：03,05,18,24,25,31, 蓝球：09 一等奖 注数: 5 奖金 :7,465,772</a></li>
