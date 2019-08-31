@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri Aug 30 09:20:06 2019 </p>
+    <p>30 links 更新时间 Sat Aug 31 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-29 2019101期开奖号码：01,04,09,21,31,33, 蓝球：05 一等奖 注数: 4 奖金 :6,477,614</a></li>
