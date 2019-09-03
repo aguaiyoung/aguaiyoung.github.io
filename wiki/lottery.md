@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Sep  2 09:20:06 2019 </p>
+    <p>30 links 更新时间 Tue Sep  3 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-01 2019102期开奖号码：03,08,12,16,20,32, 蓝球：12 一等奖 注数: 18 奖金 :5,786,187</a></li>
