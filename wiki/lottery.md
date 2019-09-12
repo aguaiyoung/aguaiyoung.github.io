@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Sep 11 09:20:07 2019 </p>
+    <p>30 links 更新时间 Thu Sep 12 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-10 2019106期开奖号码：02,14,22,27,30,33, 蓝球：14 一等奖 注数: 3 奖金 :10,000,000</a></li>
