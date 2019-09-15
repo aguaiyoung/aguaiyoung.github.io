@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Sep 14 09:20:06 2019 </p>
+    <p>30 links 更新时间 Sun Sep 15 09:20:05 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-12 2019107期开奖号码：02,06,08,23,27,32, 蓝球：02 一等奖 注数: 2 奖金 :10,000,000</a></li>
