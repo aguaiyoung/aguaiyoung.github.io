@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Sep 16 09:20:05 2019 </p>
+    <p>30 links 更新时间 Tue Sep 17 09:20:05 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-15 2019108期开奖号码：07,13,19,22,25,32, 蓝球：13 一等奖 注数: 13 奖金 :6,413,151</a></li>
