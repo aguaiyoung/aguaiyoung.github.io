@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Sep 21 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun Sep 22 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-19 2019110期开奖号码：01,18,22,26,27,28, 蓝球：08 一等奖 注数: 8 奖金 :7,132,577</a></li>
