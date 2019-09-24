@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Mon Sep 23 09:20:06 2019 </p>
+    <p>30 links 更新时间 Tue Sep 24 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-22 2019111期开奖号码：07,18,20,22,24,33, 蓝球：01 一等奖 注数: 6 奖金 :9,138,179</a></li>
