@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Sep 25 09:20:06 2019 </p>
+    <p>30 links 更新时间 Thu Sep 26 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-24 2019112期开奖号码：03,12,14,17,23,27, 蓝球：01 一等奖 注数: 6 奖金 :8,762,335</a></li>
