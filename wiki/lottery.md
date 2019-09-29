@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Sat Sep 28 09:20:07 2019 </p>
+    <p>30 links 更新时间 Sun Sep 29 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-09-26 2019113期开奖号码：01,05,19,21,25,33, 蓝球：15 一等奖 注数: 5 奖金 :8,717,723</a></li>
