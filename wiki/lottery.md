@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Wed Oct  9 09:20:08 2019 </p>
+    <p>30 links 更新时间 Thu Oct 10 09:20:06 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-08 2019115期开奖号码：04,10,11,14,15,29, 蓝球：05 一等奖 注数: 8 奖金 :7,126,357</a></li>
