@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>30 links 更新时间 Fri Oct 11 09:20:06 2019 </p>
+    <p>30 links 更新时间 Sat Oct 12 09:20:07 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-10 2019116期开奖号码：01,08,09,13,16,33, 蓝球：01 一等奖 注数: 7 奖金 :8,062,689</a></li>
