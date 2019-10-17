@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 16 09:20:23 2019 </p>
+    <p>120 links 更新时间 Thu Oct 17 09:20:26 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-15 2019118期开奖号码：12,14,15,25,28,31, 蓝球：04 一等奖 注数: 6 奖金 :8,013,754</a></li>
