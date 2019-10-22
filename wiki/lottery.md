@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Oct 21 09:20:16 2019 </p>
+    <p>120 links 更新时间 Tue Oct 22 09:20:15 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-20 2019120期开奖号码：10,12,27,31,32,33, 蓝球：03 一等奖 注数: 5 奖金 :8,898,140</a></li>
