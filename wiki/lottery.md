@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 23 09:20:17 2019 </p>
+    <p>120 links 更新时间 Thu Oct 24 09:20:19 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-22 2019121期开奖号码：02,06,15,21,30,31, 蓝球：02 一等奖 注数: 15 奖金 :6,185,649</a></li>
