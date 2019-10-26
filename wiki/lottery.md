@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Oct 25 09:20:19 2019 </p>
+    <p>120 links 更新时间 Sat Oct 26 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-24 2019122期开奖号码：04,10,15,19,21,23, 蓝球：02 一等奖 注数: 4 奖金 :10,000,000</a></li>
