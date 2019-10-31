@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 30 09:20:17 2019 </p>
+    <p>120 links 更新时间 Thu Oct 31 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-29 2019124期开奖号码：04,09,30,31,32,33, 蓝球：01 一等奖 注数: 14 奖金 :6,175,971</a></li>
