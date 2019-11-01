@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Oct 31 09:20:16 2019 </p>
+    <p>120 links 更新时间 Fri Nov  1 09:20:17 2019 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-31 2019125期开奖号码：02,11,12,26,27,29, 蓝球：03 一等奖 注数: 8 奖金 :7,374,072</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-29 2019124期开奖号码：04,09,30,31,32,33, 蓝球：01 一等奖 注数: 14 奖金 :6,175,971</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-27 2019123期开奖号码：02,06,08,17,28,30, 蓝球：06 一等奖 注数: 19 奖金 :5,596,004</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-24 2019122期开奖号码：04,10,15,19,21,23, 蓝球：02 一等奖 注数: 4 奖金 :10,000,000</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-01-17 2019008期开奖号码：02,06,09,13,28,32, 蓝球：12 一等奖 注数: 4 奖金 :9,716,477</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-01-15 2019007期开奖号码：06,10,14,15,19,23, 蓝球：15 一等奖 注数: 9 奖金 :7,306,482</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-01-13 2019006期开奖号码：01,05,10,19,26,28, 蓝球：12 一等奖 注数: 32 奖金 :5,514,887</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-01-10 2019005期开奖号码：21,22,26,28,31,32, 蓝球：07 一等奖 注数: 11 奖金 :6,133,650</a></li>
         </ol>
   </body>
 </html>
