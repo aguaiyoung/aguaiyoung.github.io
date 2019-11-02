@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Nov  1 09:20:17 2019 </p>
+    <p>120 links 更新时间 Sat Nov  2 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-31 2019125期开奖号码：02,11,12,26,27,29, 蓝球：03 一等奖 注数: 8 奖金 :7,374,072</a></li>
