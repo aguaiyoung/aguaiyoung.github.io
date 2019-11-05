@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov  4 09:20:18 2019 </p>
+    <p>120 links 更新时间 Tue Nov  5 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-03 2019126期开奖号码：02,14,17,29,32,33, 蓝球：16 一等奖 注数: 8 奖金 :7,151,842</a></li>
