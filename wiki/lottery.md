@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov  6 09:20:17 2019 </p>
+    <p>120 links 更新时间 Thu Nov  7 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-05 2019127期开奖号码：02,06,07,12,17,24, 蓝球：10 一等奖 注数: 15 奖金 :5,970,153</a></li>
