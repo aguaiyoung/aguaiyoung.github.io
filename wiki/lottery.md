@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Nov  8 09:20:18 2019 </p>
+    <p>120 links 更新时间 Sat Nov  9 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-07 2019128期开奖号码：03,08,12,16,17,19, 蓝球：08 一等奖 注数: 9 奖金 :6,051,317</a></li>
