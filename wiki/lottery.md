@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 13 09:20:18 2019 </p>
+    <p>120 links 更新时间 Thu Nov 14 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-12 2019130期开奖号码：01,07,09,11,24,32, 蓝球：16 一等奖 注数: 15 奖金 :6,791,765</a></li>
