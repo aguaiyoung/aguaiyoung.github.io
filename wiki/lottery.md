@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Nov 15 09:20:19 2019 </p>
+    <p>120 links 更新时间 Sat Nov 16 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-14 2019131期开奖号码：09,17,19,20,24,31, 蓝球：04 一等奖 注数: 12 奖金 :6,956,355</a></li>
