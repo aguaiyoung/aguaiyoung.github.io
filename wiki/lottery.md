@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov 18 09:20:22 2019 </p>
+    <p>120 links 更新时间 Tue Nov 19 09:20:20 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-17 2019132期开奖号码：04,06,11,14,19,33, 蓝球：07 一等奖 注数: 7 奖金 :8,159,750</a></li>
