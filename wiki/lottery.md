@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 20 09:20:16 2019 </p>
+    <p>120 links 更新时间 Thu Nov 21 09:20:19 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-19 2019133期开奖号码：03,07,16,21,24,31, 蓝球：07 一等奖 注数: 10 奖金 :7,387,274</a></li>
