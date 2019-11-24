@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Nov 23 09:20:17 2019 </p>
+    <p>120 links 更新时间 Sun Nov 24 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-21 2019134期开奖号码：01,04,06,22,29,30, 蓝球：03 一等奖 注数: 7 奖金 :8,383,006</a></li>
