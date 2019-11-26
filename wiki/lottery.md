@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov 25 09:20:17 2019 </p>
+    <p>120 links 更新时间 Tue Nov 26 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-24 2019135期开奖号码：03,06,10,11,27,33, 蓝球：03 一等奖 注数: 4 奖金 :10,000,000</a></li>
