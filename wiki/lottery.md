@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 27 09:20:18 2019 </p>
+    <p>120 links 更新时间 Thu Nov 28 09:20:21 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-11-26 2019136期开奖号码：12,14,15,17,29,33, 蓝球：12 一等奖 注数: 7 奖金 :7,822,924</a></li>
