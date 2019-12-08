@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Dec  7 09:20:17 2019 </p>
+    <p>120 links 更新时间 Sun Dec  8 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-05 2019140期开奖号码：02,04,09,11,14,22, 蓝球：05 一等奖 注数: 25 奖金 :5,699,960</a></li>
