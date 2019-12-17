@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 16 09:20:21 2019 </p>
+    <p>120 links 更新时间 Tue Dec 17 09:20:16 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-15 2019144期开奖号码：02,12,15,19,27,30, 蓝球：03 一等奖 注数: 13 奖金 :6,951,733</a></li>
