@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 18 09:20:13 2019 </p>
+    <p>120 links 更新时间 Thu Dec 19 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-17 2019145期开奖号码：01,08,13,17,18,19, 蓝球：16 一等奖 注数: 15 奖金 :6,299,971</a></li>
