@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 25 09:20:19 2019 </p>
+    <p>120 links 更新时间 Thu Dec 26 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-24 2019148期开奖号码：09,10,13,20,26,27, 蓝球：08 一等奖 注数: 42 奖金 :5,386,963</a></li>
