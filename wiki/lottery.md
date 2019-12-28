@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Dec 27 09:20:17 2019 </p>
+    <p>120 links 更新时间 Sat Dec 28 09:20:15 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-26 2019149期开奖号码：01,06,27,28,31,33, 蓝球：07 一等奖 注数: 16 奖金 :6,041,786</a></li>
