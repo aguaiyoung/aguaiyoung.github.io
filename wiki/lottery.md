@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 30 09:20:17 2019 </p>
+    <p>120 links 更新时间 Tue Dec 31 09:20:17 2019 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-12-29 2019150期开奖号码：02,09,14,22,27,29, 蓝球：02 一等奖 注数: 9 奖金 :7,571,049</a></li>
