@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jan  4 09:20:17 2020 </p>
+    <p>120 links 更新时间 Sun Jan  5 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-02 2020001期开奖号码：02,15,23,26,29,30, 蓝球：02 一等奖 注数: 4 奖金 :10,000,000</a></li>
