@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan  6 09:20:15 2020 </p>
+    <p>120 links 更新时间 Tue Jan  7 09:20:24 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-05 2020002期开奖号码：04,09,14,15,16,29, 蓝球：11 一等奖 注数: 16 奖金 :6,188,650</a></li>
