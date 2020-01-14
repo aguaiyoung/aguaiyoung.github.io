@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan 13 09:20:15 2020 </p>
+    <p>120 links 更新时间 Tue Jan 14 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-12 2020005期开奖号码：11,16,17,22,26,32, 蓝球：04 一等奖 注数: 8 奖金 :7,446,888</a></li>
