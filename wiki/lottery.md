@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 15 09:20:20 2020 </p>
+    <p>120 links 更新时间 Thu Jan 16 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-14 2020006期开奖号码：03,04,05,10,16,32, 蓝球：09 一等奖 注数: 20 奖金 :5,735,328</a></li>
