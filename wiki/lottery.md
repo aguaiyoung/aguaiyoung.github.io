@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jan 17 09:20:20 2020 </p>
+    <p>120 links 更新时间 Sat Jan 18 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-16 2020007期开奖号码：05,12,17,20,25,31, 蓝球：10 一等奖 注数: 38 奖金 :5,371,408</a></li>
