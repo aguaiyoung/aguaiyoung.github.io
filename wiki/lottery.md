@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Tue Mar 10 09:20:16 2020 </p>
+    <p>120 links 更新时间 Wed Mar 11 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-01-21 2020009期开奖号码：03,06,08,14,19,26, 蓝球：12 一等奖 注数: 16 奖金 :6,003,258</a></li>
