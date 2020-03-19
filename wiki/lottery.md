@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Mar 18 09:20:16 2020 </p>
+    <p>120 links 更新时间 Thu Mar 19 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-03-17 2020012期开奖号码：04,13,14,23,26,31, 蓝球：09 一等奖 注数: 3 奖金 :8,598,462</a></li>
