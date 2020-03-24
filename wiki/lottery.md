@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar 23 09:20:17 2020 </p>
+    <p>120 links 更新时间 Tue Mar 24 09:20:21 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-03-22 2020014期开奖号码：02,07,08,10,12,16, 蓝球：07 一等奖 注数: 5 奖金 :6,947,355</a></li>
