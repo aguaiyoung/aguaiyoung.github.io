@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Mar 25 09:20:26 2020 </p>
+    <p>120 links 更新时间 Thu Mar 26 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-03-24 2020015期开奖号码：08,09,22,24,30,33, 蓝球：01 一等奖 注数: 1 奖金 :10,000,000</a></li>
