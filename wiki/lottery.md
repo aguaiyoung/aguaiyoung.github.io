@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Mar 27 09:20:14 2020 </p>
+    <p>120 links 更新时间 Sat Mar 28 09:20:23 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-03-26 2020016期开奖号码：05,06,08,17,24,27, 蓝球：07 一等奖 注数: 12 奖金 :5,979,822</a></li>
