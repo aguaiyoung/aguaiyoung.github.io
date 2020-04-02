@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Apr  1 09:20:21 2020 </p>
+    <p>120 links 更新时间 Thu Apr  2 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-03-31 2020018期开奖号码：05,07,08,11,17,22, 蓝球：13 一等奖 注数: 8 奖金 :6,340,865</a></li>
