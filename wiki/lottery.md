@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Apr  4 09:20:17 2020 </p>
+    <p>120 links 更新时间 Sun Apr  5 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-02 2020019期开奖号码：15,19,27,28,30,33, 蓝球：03 一等奖 注数: 7 奖金 :7,437,091</a></li>
