@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Apr  6 09:20:16 2020 </p>
+    <p>120 links 更新时间 Tue Apr  7 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-05 2020020期开奖号码：01,06,09,13,15,22, 蓝球：14 一等奖 注数: 4 奖金 :9,871,526</a></li>
