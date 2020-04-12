@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Apr 11 09:20:14 2020 </p>
+    <p>120 links 更新时间 Sun Apr 12 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-09 2020022期开奖号码：02,10,20,22,25,30, 蓝球：02 一等奖 注数: 8 奖金 :6,761,570</a></li>
