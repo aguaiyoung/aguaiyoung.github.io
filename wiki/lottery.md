@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Apr 13 09:20:13 2020 </p>
+    <p>120 links 更新时间 Tue Apr 14 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-12 2020023期开奖号码：04,05,20,21,30,33, 蓝球：08 一等奖 注数: 6 奖金 :7,277,843</a></li>
