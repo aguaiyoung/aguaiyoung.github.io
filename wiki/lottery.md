@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Apr 15 09:20:17 2020 </p>
+    <p>120 links 更新时间 Thu Apr 16 09:20:12 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-14 2020024期开奖号码：10,13,27,28,29,31, 蓝球：08 一等奖 注数: 8 奖金 :7,028,971</a></li>
