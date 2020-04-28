@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Apr 27 09:20:15 2020 </p>
+    <p>120 links 更新时间 Tue Apr 28 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-26 2020029期开奖号码：01,12,18,20,30,32, 蓝球：05 一等奖 注数: 7 奖金 :7,432,574</a></li>
