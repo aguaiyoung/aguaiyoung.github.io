@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Apr 29 09:20:15 2020 </p>
+    <p>120 links 更新时间 Thu Apr 30 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-28 2020030期开奖号码：17,18,21,29,30,32, 蓝球：03 一等奖 注数: 1 奖金 :10,000,000</a></li>
