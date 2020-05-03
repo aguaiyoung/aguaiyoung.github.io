@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat May  2 09:20:16 2020 </p>
+    <p>120 links 更新时间 Sun May  3 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-04-30 2020031期开奖号码：02,05,09,15,16,27, 蓝球：09 一等奖 注数: 14 奖金 :5,603,722</a></li>
