@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon May  4 09:20:14 2020 </p>
+    <p>120 links 更新时间 Tue May  5 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-03 2020032期开奖号码：03,11,13,14,15,26, 蓝球：13 一等奖 注数: 11 奖金 :6,588,951</a></li>
