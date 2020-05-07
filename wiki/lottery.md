@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May  6 09:20:18 2020 </p>
+    <p>120 links 更新时间 Thu May  7 09:20:21 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-05 2020033期开奖号码：07,10,12,21,31,32, 蓝球：01 一等奖 注数: 4 奖金 :10,000,000</a></li>
