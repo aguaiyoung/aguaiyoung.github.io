@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri May  8 09:20:21 2020 </p>
+    <p>120 links 更新时间 Sat May  9 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-07 2020034期开奖号码：02,08,15,16,26,32, 蓝球：03 一等奖 注数: 11 奖金 :6,780,706</a></li>
