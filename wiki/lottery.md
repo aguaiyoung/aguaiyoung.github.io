@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May 13 09:20:12 2020 </p>
+    <p>120 links 更新时间 Thu May 14 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-12 2020036期开奖号码：07,09,16,22,24,32, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
