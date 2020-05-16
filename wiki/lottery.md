@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri May 15 09:20:14 2020 </p>
+    <p>120 links 更新时间 Sat May 16 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-14 2020037期开奖号码：01,04,11,13,17,24, 蓝球：15 一等奖 注数: 6 奖金 :6,810,277</a></li>
