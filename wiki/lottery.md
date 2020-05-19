@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon May 18 09:20:17 2020 </p>
+    <p>120 links 更新时间 Tue May 19 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-17 2020038期开奖号码：01,06,07,18,23,24, 蓝球：15 一等奖 注数: 15 奖金 :6,276,646</a></li>
