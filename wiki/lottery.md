@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May 20 09:20:16 2020 </p>
+    <p>120 links 更新时间 Thu May 21 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-19 2020039期开奖号码：02,09,10,11,16,29, 蓝球：02 一等奖 注数: 9 奖金 :6,952,125</a></li>
