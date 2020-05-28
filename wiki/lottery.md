@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May 27 09:20:17 2020 </p>
+    <p>120 links 更新时间 Thu May 28 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-26 2020042期开奖号码：02,06,07,11,14,31, 蓝球：03 一等奖 注数: 5 奖金 :8,415,115</a></li>
