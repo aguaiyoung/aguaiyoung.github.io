@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat May 30 09:20:17 2020 </p>
+    <p>120 links 更新时间 Sun May 31 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-28 2020043期开奖号码：01,11,24,25,27,30, 蓝球：07 一等奖 注数: 5 奖金 :7,928,059</a></li>
