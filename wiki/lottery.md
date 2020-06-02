@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun  1 09:20:17 2020 </p>
+    <p>120 links 更新时间 Tue Jun  2 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-05-31 2020044期开奖号码：07,08,16,17,19,24, 蓝球：07 一等奖 注数: 10 奖金 :6,803,090</a></li>
