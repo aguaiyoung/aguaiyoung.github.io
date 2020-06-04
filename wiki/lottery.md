@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun  3 09:20:17 2020 </p>
+    <p>120 links 更新时间 Thu Jun  4 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-02 2020045期开奖号码：02,03,15,21,22,33, 蓝球：16 一等奖 注数: 16 奖金 :6,075,531</a></li>
