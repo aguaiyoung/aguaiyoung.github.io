@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jun  5 09:20:18 2020 </p>
+    <p>120 links 更新时间 Sat Jun  6 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-04 2020046期开奖号码：13,19,25,26,27,32, 蓝球：08 一等奖 注数: 7 奖金 :6,855,509</a></li>
