@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun  8 09:20:17 2020 </p>
+    <p>120 links 更新时间 Tue Jun  9 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-07 2020047期开奖号码：04,10,17,19,28,32, 蓝球：01 一等奖 注数: 10 奖金 :7,200,661</a></li>
