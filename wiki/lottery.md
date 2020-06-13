@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jun 12 09:20:17 2020 </p>
+    <p>120 links 更新时间 Sat Jun 13 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-11 2020049期开奖号码：01,07,09,12,18,22, 蓝球：04 一等奖 注数: 7 奖金 :7,652,110</a></li>
