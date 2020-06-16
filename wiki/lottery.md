@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun 15 09:20:18 2020 </p>
+    <p>120 links 更新时间 Tue Jun 16 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-14 2020050期开奖号码：04,09,17,20,32,33, 蓝球：15 一等奖 注数: 5 奖金 :9,664,099</a></li>
