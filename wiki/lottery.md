@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun 17 09:20:17 2020 </p>
+    <p>120 links 更新时间 Thu Jun 18 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-16 2020051期开奖号码：03,06,08,11,19,28, 蓝球：08 一等奖 注数: 23 奖金 :5,442,583</a></li>
