@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun 22 09:20:25 2020 </p>
+    <p>120 links 更新时间 Tue Jun 23 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-21 2020053期开奖号码：02,14,15,16,32,33, 蓝球：01 一等奖 注数: 19 奖金 :6,277,278</a></li>
