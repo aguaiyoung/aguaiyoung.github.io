@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun 24 09:20:18 2020 </p>
+    <p>120 links 更新时间 Thu Jun 25 09:20:23 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-23 2020054期开奖号码：03,10,19,25,26,31, 蓝球：02 一等奖 注数: 11 奖金 :6,596,678</a></li>
