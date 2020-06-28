@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jun 27 09:20:20 2020 </p>
+    <p>120 links 更新时间 Sun Jun 28 09:20:20 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-25 2020055期开奖号码：01,05,07,23,28,30, 蓝球：12 一等奖 注数: 14 奖金 :5,761,052</a></li>
