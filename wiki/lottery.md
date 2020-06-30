@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun 29 09:20:24 2020 </p>
+    <p>120 links 更新时间 Tue Jun 30 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-28 2020056期开奖号码：02,05,08,12,26,31, 蓝球：14 一等奖 注数: 17 奖金 :6,280,167</a></li>
