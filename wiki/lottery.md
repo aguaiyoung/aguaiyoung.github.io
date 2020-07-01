@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Tue Jun 30 09:20:18 2020 </p>
+    <p>120 links 更新时间 Wed Jul  1 09:20:20 2020 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-30 2020057期开奖号码：09,14,21,23,26,32, 蓝球：03 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-28 2020056期开奖号码：02,05,08,12,26,31, 蓝球：14 一等奖 注数: 17 奖金 :6,280,167</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-25 2020055期开奖号码：01,05,07,23,28,30, 蓝球：12 一等奖 注数: 14 奖金 :5,761,052</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-23 2020054期开奖号码：03,10,19,25,26,31, 蓝球：02 一等奖 注数: 11 奖金 :6,596,678</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-06 2019091期开奖号码：07,10,21,24,29,32, 蓝球：11 一等奖 注数: 2 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-04 2019090期开奖号码：02,03,06,08,14,22, 蓝球：04 一等奖 注数: 2 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-08-01 2019089期开奖号码：02,04,14,16,20,22, 蓝球：11 一等奖 注数: 7 奖金 :6,961,515</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-07-30 2019088期开奖号码：13,14,15,21,23,29, 蓝球：13 一等奖 注数: 18 奖金 :5,697,370</a></li>
         </ol>
   </body>
 </html>
