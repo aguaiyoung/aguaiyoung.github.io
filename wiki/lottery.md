@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jul  1 09:20:20 2020 </p>
+    <p>120 links 更新时间 Thu Jul  2 09:20:23 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-30 2020057期开奖号码：09,14,21,23,26,32, 蓝球：03 一等奖 注数: 3 奖金 :10,000,000</a></li>
