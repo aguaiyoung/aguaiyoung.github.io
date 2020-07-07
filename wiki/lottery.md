@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jul  6 09:20:19 2020 </p>
+    <p>120 links 更新时间 Tue Jul  7 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-05 2020059期开奖号码：02,04,10,17,22,25, 蓝球：14 一等奖 注数: 4 奖金 :10,000,000</a></li>
