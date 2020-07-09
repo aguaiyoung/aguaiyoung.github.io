@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jul  8 09:20:18 2020 </p>
+    <p>120 links 更新时间 Thu Jul  9 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-07 2020060期开奖号码：05,09,14,20,24,30, 蓝球：08 一等奖 注数: 38 奖金 :5,238,209</a></li>
