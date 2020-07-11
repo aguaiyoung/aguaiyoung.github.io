@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jul 10 09:20:18 2020 </p>
+    <p>120 links 更新时间 Sat Jul 11 09:20:19 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-09 2020061期开奖号码：08,17,24,26,27,31, 蓝球：04 一等奖 注数: 1 奖金 :10,000,000</a></li>
