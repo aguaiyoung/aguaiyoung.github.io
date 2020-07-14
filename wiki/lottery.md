@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jul 13 09:20:22 2020 </p>
+    <p>120 links 更新时间 Tue Jul 14 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-12 2020062期开奖号码：10,14,17,22,26,27, 蓝球：05 一等奖 注数: 5 奖金 :8,901,954</a></li>
