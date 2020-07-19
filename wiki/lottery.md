@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jul 18 09:20:18 2020 </p>
+    <p>120 links 更新时间 Sun Jul 19 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-16 2020064期开奖号码：01,03,07,21,27,32, 蓝球：01 一等奖 注数: 1 奖金 :10,000,000</a></li>
