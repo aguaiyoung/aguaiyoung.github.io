@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>股票数据爬虫结果</h1>
-    <p>507 links 更新时间 Thu Apr 23 09:20:29 2020</p>
+    <p>507 links 更新时间 Fri Jul 24 14:40:13 2020</p>
     <p>统计一共 0 涨 0 跌</p>
   </center>
     <ol align="left">
