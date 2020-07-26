@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jul 25 09:20:16 2020 </p>
+    <p>120 links 更新时间 Sun Jul 26 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-23 2020067期开奖号码：04,07,09,23,27,30, 蓝球：08 一等奖 注数: 10 奖金 :6,979,941</a></li>
