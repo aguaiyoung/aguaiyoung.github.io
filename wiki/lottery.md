@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Aug  1 09:20:14 2020 </p>
+    <p>120 links 更新时间 Sun Aug  2 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-07-30 2020070期开奖号码：01,02,04,06,19,21, 蓝球：15 一等奖 注数: 23 奖金 :5,829,067</a></li>
