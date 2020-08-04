@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug  3 09:20:14 2020 </p>
+    <p>120 links 更新时间 Tue Aug  4 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-02 2020071期开奖号码：09,11,12,13,22,23, 蓝球：08 一等奖 注数: 12 奖金 :6,156,653</a></li>
