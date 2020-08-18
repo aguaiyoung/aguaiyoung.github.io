@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug 17 09:20:15 2020 </p>
+    <p>120 links 更新时间 Tue Aug 18 09:20:21 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-16 2020077期开奖号码：03,10,16,21,25,27, 蓝球：12 一等奖 注数: 27 奖金 :5,841,121</a></li>
