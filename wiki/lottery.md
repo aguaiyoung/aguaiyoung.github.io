@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Aug 19 09:20:15 2020 </p>
+    <p>120 links 更新时间 Thu Aug 20 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-18 2020078期开奖号码：03,11,14,16,21,32, 蓝球：04 一等奖 注数: 1 奖金 :10,000,000</a></li>
