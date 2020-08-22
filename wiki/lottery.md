@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Aug 21 09:20:22 2020 </p>
+    <p>120 links 更新时间 Sat Aug 22 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-20 2020079期开奖号码：05,12,20,21,22,29, 蓝球：14 一等奖 注数: 6 奖金 :8,578,055</a></li>
