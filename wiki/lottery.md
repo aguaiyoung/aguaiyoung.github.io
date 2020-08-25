@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug 24 09:20:15 2020 </p>
+    <p>120 links 更新时间 Tue Aug 25 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-23 2020080期开奖号码：14,15,18,22,31,33, 蓝球：01 一等奖 注数: 2 奖金 :10,000,000</a></li>
