@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Aug 26 09:20:18 2020 </p>
+    <p>120 links 更新时间 Thu Aug 27 09:20:25 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-25 2020081期开奖号码：01,05,13,14,27,33, 蓝球：15 一等奖 注数: 11 奖金 :7,057,769</a></li>
