@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Aug 29 09:20:17 2020 </p>
+    <p>120 links 更新时间 Sun Aug 30 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-27 2020082期开奖号码：02,08,11,17,21,30, 蓝球：09 一等奖 注数: 22 奖金 :5,094,481</a></li>
