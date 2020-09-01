@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug 31 09:20:23 2020 </p>
+    <p>120 links 更新时间 Tue Sep  1 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-30 2020083期开奖号码：01,19,25,26,30,31, 蓝球：12 一等奖 注数: 7 奖金 :7,916,189</a></li>
