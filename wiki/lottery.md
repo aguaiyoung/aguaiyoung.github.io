@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Sep  2 09:20:16 2020 </p>
+    <p>120 links 更新时间 Thu Sep  3 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-01 2020084期开奖号码：03,07,16,17,23,30, 蓝球：07 一等奖 注数: 15 奖金 :5,641,465</a></li>
