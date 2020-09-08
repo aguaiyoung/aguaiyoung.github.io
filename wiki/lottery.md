@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep  7 09:20:13 2020 </p>
+    <p>120 links 更新时间 Tue Sep  8 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-06 2020086期开奖号码：02,04,06,15,24,27, 蓝球：06 一等奖 注数: 7 奖金 :7,452,652</a></li>
