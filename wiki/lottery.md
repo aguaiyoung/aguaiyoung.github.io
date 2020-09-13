@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Sep 12 09:20:14 2020 </p>
+    <p>120 links 更新时间 Sun Sep 13 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-10 2020088期开奖号码：01,06,12,26,29,30, 蓝球：12 一等奖 注数: 14 奖金 :6,377,823</a></li>
