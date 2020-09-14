@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sun Sep 13 09:20:14 2020 </p>
+    <p>120 links 更新时间 Mon Sep 14 09:20:16 2020 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-13 2020089期开奖号码：02,14,16,21,29,30, 蓝球：10 一等奖 注数: 11 奖金 :7,200,974</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-10 2020088期开奖号码：01,06,12,26,29,30, 蓝球：12 一等奖 注数: 14 奖金 :6,377,823</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-08 2020087期开奖号码：11,15,20,23,25,33, 蓝球：10 一等奖 注数: 5 奖金 :7,940,558</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-06 2020086期开奖号码：02,04,06,15,24,27, 蓝球：06 一等奖 注数: 7 奖金 :7,452,652</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-27 2019123期开奖号码：02,06,08,17,28,30, 蓝球：06 一等奖 注数: 19 奖金 :5,596,004</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-24 2019122期开奖号码：04,10,15,19,21,23, 蓝球：02 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-22 2019121期开奖号码：02,06,15,21,30,31, 蓝球：02 一等奖 注数: 15 奖金 :6,185,649</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2019-10-20 2019120期开奖号码：10,12,27,31,32,33, 蓝球：03 一等奖 注数: 5 奖金 :8,898,140</a></li>
         </ol>
   </body>
 </html>
