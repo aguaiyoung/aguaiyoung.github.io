@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep 14 09:20:16 2020 </p>
+    <p>120 links 更新时间 Tue Sep 15 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-13 2020089期开奖号码：02,14,16,21,29,30, 蓝球：10 一等奖 注数: 11 奖金 :7,200,974</a></li>
