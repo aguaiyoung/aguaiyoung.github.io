@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Sep 16 09:20:16 2020 </p>
+    <p>120 links 更新时间 Thu Sep 17 09:20:16 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-15 2020090期开奖号码：02,21,23,26,31,32, 蓝球：06 一等奖 注数: 6 奖金 :8,569,539</a></li>
