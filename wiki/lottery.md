@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Sep 19 09:20:12 2020 </p>
+    <p>120 links 更新时间 Sun Sep 20 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-17 2020091期开奖号码：01,09,11,12,16,19, 蓝球：16 一等奖 注数: 11 奖金 :6,771,891</a></li>
