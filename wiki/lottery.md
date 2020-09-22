@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep 21 09:20:14 2020 </p>
+    <p>120 links 更新时间 Tue Sep 22 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-09-20 2020092期开奖号码：01,06,12,18,22,24, 蓝球：03 一等奖 注数: 6 奖金 :8,324,368</a></li>
