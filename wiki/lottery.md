@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Oct 12 09:20:12 2020 </p>
+    <p>120 links 更新时间 Tue Oct 13 09:20:15 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-11 2020099期开奖号码：05,06,11,12,15,30, 蓝球：12 一等奖 注数: 7 奖金 :7,301,898</a></li>
