@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 14 09:20:15 2020 </p>
+    <p>120 links 更新时间 Thu Oct 15 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-13 2020100期开奖号码：01,07,15,16,20,23, 蓝球：07 一等奖 注数: 9 奖金 :6,279,386</a></li>
