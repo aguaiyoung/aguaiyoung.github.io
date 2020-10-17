@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Oct 16 09:20:20 2020 </p>
+    <p>120 links 更新时间 Sat Oct 17 09:20:17 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-15 2020101期开奖号码：10,17,24,25,28,30, 蓝球：15 一等奖 注数: 7 奖金 :8,298,609</a></li>
