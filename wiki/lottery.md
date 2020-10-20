@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Oct 19 09:20:18 2020 </p>
+    <p>120 links 更新时间 Tue Oct 20 09:20:19 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-18 2020102期开奖号码：09,10,19,25,26,29, 蓝球：08 一等奖 注数: 73 奖金 :5,028,416</a></li>
