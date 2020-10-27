@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Oct 26 09:20:21 2020 </p>
+    <p>120 links 更新时间 Tue Oct 27 09:20:18 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-25 2020105期开奖号码：06,14,19,20,22,24, 蓝球：01 一等奖 注数: 6 奖金 :8,700,739</a></li>
