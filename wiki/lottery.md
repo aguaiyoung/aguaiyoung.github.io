@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 28 09:20:16 2020 </p>
+    <p>120 links 更新时间 Thu Oct 29 09:20:21 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-10-27 2020106期开奖号码：02,04,11,15,18,28, 蓝球：10 一等奖 注数: 14 奖金 :5,906,931</a></li>
