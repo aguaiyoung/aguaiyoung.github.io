@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov  4 09:20:21 2020 </p>
+    <p>120 links 更新时间 Thu Nov  5 09:20:22 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-03 2020109期开奖号码：06,13,16,20,23,32, 蓝球：13 一等奖 注数: 23 奖金 :5,708,816</a></li>
