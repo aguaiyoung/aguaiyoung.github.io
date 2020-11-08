@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Nov  7 09:20:08 2020 </p>
+    <p>120 links 更新时间 Sun Nov  8 09:20:07 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-05 2020110期开奖号码：02,06,09,14,22,25, 蓝球：04 一等奖 注数: 9 奖金 :6,744,907</a></li>
