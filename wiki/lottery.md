@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov  9 09:20:09 2020 </p>
+    <p>120 links 更新时间 Tue Nov 10 09:20:08 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-08 2020111期开奖号码：06,09,17,22,24,26, 蓝球：16 一等奖 注数: 3 奖金 :10,000,000</a></li>
