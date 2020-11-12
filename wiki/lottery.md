@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 11 09:20:15 2020 </p>
+    <p>120 links 更新时间 Thu Nov 12 09:20:10 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-10 2020112期开奖号码：02,09,12,17,28,32, 蓝球：05 一等奖 注数: 14 奖金 :6,657,801</a></li>
