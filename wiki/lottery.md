@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov 16 09:20:10 2020 </p>
+    <p>120 links 更新时间 Tue Nov 17 09:20:08 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-15 2020114期开奖号码：01,05,11,24,30,32, 蓝球：03 一等奖 注数: 16 奖金 :6,478,657</a></li>
