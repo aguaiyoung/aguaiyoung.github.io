@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov 23 09:20:09 2020 </p>
+    <p>120 links 更新时间 Tue Nov 24 09:20:07 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-22 2020117期开奖号码：07,08,09,10,16,27, 蓝球：07 一等奖 注数: 19 奖金 :5,762,819</a></li>
