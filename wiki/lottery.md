@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 25 09:20:09 2020 </p>
+    <p>120 links 更新时间 Thu Nov 26 09:20:12 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-24 2020118期开奖号码：11,13,19,26,30,33, 蓝球：05 一等奖 注数: 4 奖金 :10,000,000</a></li>
