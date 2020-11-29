@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Nov 28 09:20:09 2020 </p>
+    <p>120 links 更新时间 Sun Nov 29 09:20:08 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-26 2020119期开奖号码：01,09,22,28,32,33, 蓝球：15 一等奖 注数: 12 奖金 :6,880,004</a></li>
