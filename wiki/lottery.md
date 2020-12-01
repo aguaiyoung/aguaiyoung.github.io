@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov 30 09:20:08 2020 </p>
+    <p>120 links 更新时间 Tue Dec  1 09:20:09 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-29 2020120期开奖号码：01,02,03,04,09,10, 蓝球：12 一等奖 注数: 28 奖金 :5,529,239</a></li>
