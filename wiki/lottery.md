@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec  2 09:20:10 2020 </p>
+    <p>120 links 更新时间 Thu Dec  3 09:20:20 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-01 2020121期开奖号码：02,04,06,21,25,29, 蓝球：03 一等奖 注数: 5 奖金 :9,656,537</a></li>
