@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Dec  4 09:20:11 2020 </p>
+    <p>120 links 更新时间 Sat Dec  5 09:20:08 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-03 2020122期开奖号码：12,15,17,24,26,31, 蓝球：15 一等奖 注数: 7 奖金 :8,506,055</a></li>
