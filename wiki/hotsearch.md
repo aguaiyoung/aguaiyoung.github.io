@@ -6,10 +6,17 @@
   <body>
   <center>
     <h1>github趋势TOP15爬虫结果</h1>
-    <p>868 links 更新时间 Sat Dec  5 09:21:14 2020</p>
+    <p>869 links 更新时间 Sun Dec  6 09:21:22 2020</p>
   </center>
     <ol align="left">
       <li>
+          <a target="_blank" href="/hotsearch/hotsearch_2020-12-06.html">
+          <font color="#F5350C" size="4">
+            github趋势TOP15 hotsearch_2020-12-06 
+          </font>
+        </a>
+        </li>
+        <li>
           <a target="_blank" href="/hotsearch/hotsearch_2020-12-05.html">
           <font color="#F5350C" size="4">
             github趋势TOP15 hotsearch_2020-12-05 
