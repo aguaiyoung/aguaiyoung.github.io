@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Dec 12 09:20:09 2020 </p>
+    <p>120 links 更新时间 Sun Dec 13 09:20:10 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-10 2020125期开奖号码：05,12,16,26,30,31, 蓝球：13 一等奖 注数: 8 奖金 :8,008,557</a></li>
