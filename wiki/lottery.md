@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 14 09:20:13 2020 </p>
+    <p>120 links 更新时间 Tue Dec 15 09:20:09 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-13 2020126期开奖号码：03,07,12,14,23,28, 蓝球：11 一等奖 注数: 33 奖金 :5,506,107</a></li>
