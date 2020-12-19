@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Dec 18 09:20:07 2020 </p>
+    <p>120 links 更新时间 Sat Dec 19 09:20:09 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-17 2020128期开奖号码：08,10,15,16,23,26, 蓝球：10 一等奖 注数: 14 奖金 :6,055,174</a></li>
