@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 21 09:20:07 2020 </p>
+    <p>120 links 更新时间 Tue Dec 22 09:20:06 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-20 2020129期开奖号码：01,02,05,15,28,33, 蓝球：04 一等奖 注数: 14 奖金 :6,613,195</a></li>
