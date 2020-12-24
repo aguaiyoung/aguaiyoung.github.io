@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 23 09:20:10 2020 </p>
+    <p>120 links 更新时间 Thu Dec 24 09:20:13 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-22 2020130期开奖号码：08,09,11,14,17,29, 蓝球：16 一等奖 注数: 9 奖金 :7,096,662</a></li>
