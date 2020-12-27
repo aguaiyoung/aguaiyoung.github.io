@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Dec 26 09:20:08 2020 </p>
+    <p>120 links 更新时间 Sun Dec 27 09:20:09 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-24 2020131期开奖号码：08,19,22,26,27,30, 蓝球：07 一等奖 注数: 10 奖金 :6,733,037</a></li>
