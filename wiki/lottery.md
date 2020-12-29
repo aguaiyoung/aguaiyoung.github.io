@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 28 09:20:08 2020 </p>
+    <p>120 links 更新时间 Tue Dec 29 09:20:14 2020 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-27 2020132期开奖号码：01,04,11,12,14,23, 蓝球：04 一等奖 注数: 5 奖金 :10,000,000</a></li>
