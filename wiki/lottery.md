@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jan  2 09:20:15 2021 </p>
+    <p>120 links 更新时间 Sun Jan  3 09:20:14 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-12-31 2020134期开奖号码：02,09,10,20,22,26, 蓝球：01 一等奖 注数: 48 奖金 :5,382,786</a></li>
