@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan  6 09:20:16 2021 </p>
+    <p>120 links 更新时间 Thu Jan  7 09:20:21 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-05 2021002期开奖号码：06,10,13,25,26,32, 蓝球：11 一等奖 注数: 10 奖金 :7,105,919</a></li>
