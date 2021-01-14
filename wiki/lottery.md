@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 13 09:20:09 2021 </p>
+    <p>120 links 更新时间 Thu Jan 14 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-12 2021005期开奖号码：07,09,14,26,30,31, 蓝球：04 一等奖 注数: 14 奖金 :6,353,946</a></li>
