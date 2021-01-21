@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 20 09:20:13 2021 </p>
+    <p>120 links 更新时间 Thu Jan 21 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-19 2021008期开奖号码：01,05,07,14,18,33, 蓝球：07 一等奖 注数: 4 奖金 :8,728,131</a></li>
