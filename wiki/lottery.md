@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jan 23 09:20:12 2021 </p>
+    <p>120 links 更新时间 Sun Jan 24 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-21 2021009期开奖号码：02,04,07,24,25,32, 蓝球：13 一等奖 注数: 4 奖金 :10,000,000</a></li>
