@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan 25 09:20:17 2021 </p>
+    <p>120 links 更新时间 Tue Jan 26 09:20:22 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-24 2021010期开奖号码：01,04,11,19,32,33, 蓝球：05 一等奖 注数: 7 奖金 :8,060,622</a></li>
