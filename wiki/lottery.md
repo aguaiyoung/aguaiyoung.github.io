@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 27 09:20:09 2021 </p>
+    <p>120 links 更新时间 Thu Jan 28 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-26 2021011期开奖号码：05,10,16,23,27,33, 蓝球：14 一等奖 注数: 18 奖金 :5,425,200</a></li>
