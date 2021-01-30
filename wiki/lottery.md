@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jan 29 09:20:10 2021 </p>
+    <p>120 links 更新时间 Sat Jan 30 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-28 2021012期开奖号码：03,06,14,18,20,26, 蓝球：01 一等奖 注数: 17 奖金 :5,854,248</a></li>
