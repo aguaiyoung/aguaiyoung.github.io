@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Feb  1 09:20:18 2021 </p>
+    <p>120 links 更新时间 Tue Feb  2 09:20:13 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-01-31 2021013期开奖号码：06,09,12,16,27,31, 蓝球：06 一等奖 注数: 17 奖金 :5,756,403</a></li>
