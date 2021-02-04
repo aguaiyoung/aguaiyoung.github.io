@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Feb  3 09:20:09 2021 </p>
+    <p>120 links 更新时间 Thu Feb  4 09:20:14 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-02-02 2021014期开奖号码：04,15,21,25,29,33, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
