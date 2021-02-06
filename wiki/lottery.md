@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Feb  5 09:20:11 2021 </p>
+    <p>120 links 更新时间 Sat Feb  6 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-02-04 2021015期开奖号码：06,14,16,26,28,29, 蓝球：07 一等奖 注数: 6 奖金 :7,672,352</a></li>
