@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Feb 20 14:22:39 2021 </p>
+    <p>120 links 更新时间 Sun Feb 21 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-02-07 2021016期开奖号码：03,08,09,13,15,18, 蓝球：10 一等奖 注数: 16 奖金 :6,134,153</a></li>
