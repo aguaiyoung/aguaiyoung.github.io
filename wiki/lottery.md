@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Feb 24 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu Feb 25 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-02-23 2021018期开奖号码：02,08,14,23,25,32, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
