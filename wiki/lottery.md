@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar  1 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Mar  2 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-02-28 2021020期开奖号码：01,03,06,07,09,11, 蓝球：02 一等奖 注数: 19 奖金 :6,085,156</a></li>
