@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Mar  3 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Mar  4 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-02 2021021期开奖号码：04,08,17,24,28,33, 蓝球：13 一等奖 注数: 19 奖金 :5,979,263</a></li>
