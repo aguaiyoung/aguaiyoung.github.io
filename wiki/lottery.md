@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Mar  5 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sat Mar  6 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-04 2021022期开奖号码：10,15,17,25,31,32, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
