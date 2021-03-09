@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar  8 09:20:09 2021 </p>
+    <p>120 links 更新时间 Tue Mar  9 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-07 2021023期开奖号码：02,21,22,23,27,28, 蓝球：11 一等奖 注数: 4 奖金 :9,744,205</a></li>
