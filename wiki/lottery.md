@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Mar 13 09:20:08 2021 </p>
+    <p>120 links 更新时间 Sun Mar 14 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-11 2021025期开奖号码：06,08,14,17,18,30, 蓝球：11 一等奖 注数: 6 奖金 :8,396,506</a></li>
