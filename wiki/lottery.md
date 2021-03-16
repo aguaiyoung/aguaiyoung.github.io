@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar 15 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Mar 16 09:20:11 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-14 2021026期开奖号码：03,05,13,19,20,25, 蓝球：03 一等奖 注数: 74 奖金 :5,079,572</a></li>
