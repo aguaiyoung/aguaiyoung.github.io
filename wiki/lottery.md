@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Mar 17 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu Mar 18 09:20:11 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-16 2021027期开奖号码：05,07,09,16,20,26, 蓝球：08 一等奖 注数: 23 奖金 :5,339,305</a></li>
