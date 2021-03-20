@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Mar 19 09:20:08 2021 </p>
+    <p>120 links 更新时间 Sat Mar 20 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-18 2021028期开奖号码：11,16,23,26,27,33, 蓝球：05 一等奖 注数: 7 奖金 :7,433,674</a></li>
