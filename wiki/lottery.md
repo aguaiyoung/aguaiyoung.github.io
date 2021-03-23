@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar 22 09:20:08 2021 </p>
+    <p>120 links 更新时间 Tue Mar 23 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-21 2021029期开奖号码：08,10,15,17,22,30, 蓝球：12 一等奖 注数: 17 奖金 :5,716,335</a></li>
