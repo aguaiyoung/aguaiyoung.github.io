@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Mar 27 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Mar 28 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-25 2021031期开奖号码：06,11,21,25,28,31, 蓝球：07 一等奖 注数: 12 奖金 :5,950,364</a></li>
