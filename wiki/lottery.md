@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Mar 29 09:20:05 2021 </p>
+    <p>120 links 更新时间 Tue Mar 30 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-28 2021032期开奖号码：01,05,08,15,16,30, 蓝球：03 一等奖 注数: 12 奖金 :6,977,206</a></li>
