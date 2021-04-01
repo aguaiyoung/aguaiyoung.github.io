@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Mar 31 09:20:09 2021 </p>
+    <p>120 links 更新时间 Thu Apr  1 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-30 2021033期开奖号码：02,12,13,14,31,33, 蓝球：06 一等奖 注数: 7 奖金 :8,001,905</a></li>
