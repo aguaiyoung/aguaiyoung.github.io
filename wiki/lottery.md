@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Apr  2 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sat Apr  3 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-01 2021034期开奖号码：04,10,12,18,23,25, 蓝球：01 一等奖 注数: 5 奖金 :8,852,481</a></li>
