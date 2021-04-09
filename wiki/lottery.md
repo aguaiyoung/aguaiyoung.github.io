@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Apr  8 09:20:08 2021 </p>
+    <p>120 links 更新时间 Fri Apr  9 09:20:15 2021 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-08 2021037期开奖号码：13,17,19,24,26,30, 蓝球：12 一等奖 注数: 7 奖金 :7,856,624</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-06 2021036期开奖号码：01,02,06,11,21,26, 蓝球：11 一等奖 注数: 12 奖金 :6,690,644</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-04 2021035期开奖号码：12,14,18,20,26,28, 蓝球：11 一等奖 注数: 7 奖金 :7,844,638</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-01 2021034期开奖号码：04,10,12,18,23,25, 蓝球：01 一等奖 注数: 5 奖金 :8,852,481</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-23 2020054期开奖号码：03,10,19,25,26,31, 蓝球：02 一等奖 注数: 11 奖金 :6,596,678</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-21 2020053期开奖号码：02,14,15,16,32,33, 蓝球：01 一等奖 注数: 19 奖金 :6,277,278</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-18 2020052期开奖号码：02,08,13,29,32,33, 蓝球：15 一等奖 注数: 2 奖金 :10,000,000</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-06-16 2020051期开奖号码：03,06,08,11,19,28, 蓝球：08 一等奖 注数: 23 奖金 :5,442,583</a></li>
         </ol>
   </body>
 </html>
