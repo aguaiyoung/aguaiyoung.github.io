@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Apr 10 09:20:06 2021 </p>
+    <p>120 links 更新时间 Sun Apr 11 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-08 2021037期开奖号码：13,17,19,24,26,30, 蓝球：12 一等奖 注数: 7 奖金 :7,856,624</a></li>
