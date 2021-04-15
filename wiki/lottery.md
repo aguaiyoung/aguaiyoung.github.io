@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Apr 14 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu Apr 15 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-13 2021039期开奖号码：02,08,21,24,29,31, 蓝球：13 一等奖 注数: 7 奖金 :7,814,665</a></li>
