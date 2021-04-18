@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Apr 17 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sun Apr 18 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-15 2021040期开奖号码：02,06,07,24,28,29, 蓝球：16 一等奖 注数: 6 奖金 :8,652,104</a></li>
