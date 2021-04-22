@@ -6,10 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Apr 21 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu Apr 22 09:20:07 2021 </p>
   </center>
     <ol align="left">
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-20 2021042期开奖号码：05,09,10,22,25,27, 蓝球：08 一等奖 注数: 54 奖金 :5,307,817</a></li>
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-20 2021042期开奖号码：05,09,10,22,25,27, 蓝球：08 一等奖 注数: 26 奖金 :5,498,446</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-18 2021041期开奖号码：02,09,18,23,26,32, 蓝球：14 一等奖 注数: 54 奖金 :5,307,817</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-15 2021040期开奖号码：02,06,07,24,28,29, 蓝球：16 一等奖 注数: 6 奖金 :8,652,104</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-13 2021039期开奖号码：02,08,21,24,29,31, 蓝球：13 一等奖 注数: 7 奖金 :7,814,665</a></li>
