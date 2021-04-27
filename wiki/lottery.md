@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Apr 26 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Apr 27 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-25 2021044期开奖号码：05,07,14,17,26,28, 蓝球：13 一等奖 注数: 5 奖金 :10,000,000</a></li>
