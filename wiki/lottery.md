@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri May  7 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sat May  8 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-06 2021049期开奖号码：04,11,13,22,25,32, 蓝球：01 一等奖 注数: 4 奖金 :10,000,000</a></li>
