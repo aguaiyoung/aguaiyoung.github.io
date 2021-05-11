@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon May 10 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue May 11 09:20:13 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-09 2021050期开奖号码：02,09,10,16,25,28, 蓝球：08 一等奖 注数: 22 奖金 :5,598,001</a></li>
