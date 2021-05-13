@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May 12 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu May 13 09:20:18 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-11 2021051期开奖号码：08,09,10,19,27,29, 蓝球：15 一等奖 注数: 10 奖金 :6,796,944</a></li>
