@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon May 17 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue May 18 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-16 2021053期开奖号码：07,10,14,16,24,33, 蓝球：16 一等奖 注数: 3 奖金 :10,000,000</a></li>
