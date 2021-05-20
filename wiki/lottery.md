@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed May 19 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu May 20 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-18 2021054期开奖号码：07,13,21,22,24,31, 蓝球：02 一等奖 注数: 4 奖金 :10,000,000</a></li>
