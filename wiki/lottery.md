@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat May 22 09:20:06 2021 </p>
+    <p>120 links 更新时间 Sun May 23 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-20 2021055期开奖号码：03,11,12,16,22,28, 蓝球：10 一等奖 注数: 29 奖金 :5,553,793</a></li>
