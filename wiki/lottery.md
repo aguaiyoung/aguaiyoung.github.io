@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon May 24 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue May 25 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-23 2021056期开奖号码：08,21,22,23,29,32, 蓝球：01 一等奖 注数: 10 奖金 :7,488,306</a></li>
