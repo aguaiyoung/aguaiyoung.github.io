@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri May 28 09:20:11 2021 </p>
+    <p>120 links 更新时间 Sat May 29 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-05-27 2021058期开奖号码：09,11,13,18,19,28, 蓝球：14 一等奖 注数: 5 奖金 :9,893,453</a></li>
