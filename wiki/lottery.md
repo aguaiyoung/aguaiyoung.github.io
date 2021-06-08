@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun  7 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Jun  8 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-06 2021062期开奖号码：12,13,15,20,22,25, 蓝球：10 一等奖 注数: 6 奖金 :8,804,175</a></li>
