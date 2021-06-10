@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun  9 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Jun 10 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-08 2021063期开奖号码：04,05,06,09,23,24, 蓝球：09 一等奖 注数: 16 奖金 :5,000,000</a></li>
