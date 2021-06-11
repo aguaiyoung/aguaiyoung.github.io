@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Jun 10 09:20:09 2021 </p>
+    <p>120 links 更新时间 Fri Jun 11 09:20:09 2021 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-10 2021064期开奖号码：04,06,08,15,16,18, 蓝球：16 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-08 2021063期开奖号码：04,05,06,09,23,24, 蓝球：09 一等奖 注数: 16 奖金 :5,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-06 2021062期开奖号码：12,13,15,20,22,25, 蓝球：10 一等奖 注数: 6 奖金 :8,804,175</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-03 2021061期开奖号码：04,09,12,18,20,23, 蓝球：01 一等奖 注数: 4 奖金 :10,000,000</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-25 2020081期开奖号码：01,05,13,14,27,33, 蓝球：15 一等奖 注数: 11 奖金 :7,057,769</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-23 2020080期开奖号码：14,15,18,22,31,33, 蓝球：01 一等奖 注数: 2 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-20 2020079期开奖号码：05,12,20,21,22,29, 蓝球：14 一等奖 注数: 6 奖金 :8,578,055</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-08-18 2020078期开奖号码：03,11,14,16,21,32, 蓝球：04 一等奖 注数: 1 奖金 :10,000,000</a></li>
         </ol>
   </body>
 </html>
