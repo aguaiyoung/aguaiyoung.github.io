@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun 16 09:20:11 2021 </p>
+    <p>120 links 更新时间 Thu Jun 17 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-15 2021066期开奖号码：02,06,19,26,30,33, 蓝球：15 一等奖 注数: 14 奖金 :6,436,433</a></li>
