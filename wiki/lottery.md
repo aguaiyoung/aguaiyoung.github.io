@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jun 19 09:20:06 2021 </p>
+    <p>120 links 更新时间 Sun Jun 20 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-17 2021067期开奖号码：01,11,19,23,25,29, 蓝球：09 一等奖 注数: 6 奖金 :7,464,865</a></li>
