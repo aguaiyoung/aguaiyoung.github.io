@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jun 21 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Jun 22 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-20 2021068期开奖号码：04,14,18,24,31,32, 蓝球：15 一等奖 注数: 7 奖金 :8,662,562</a></li>
