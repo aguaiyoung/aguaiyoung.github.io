@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun 30 09:20:14 2021 </p>
+    <p>120 links 更新时间 Thu Jul  1 09:20:18 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-06-29 2021072期开奖号码：01,09,15,16,19,21, 蓝球：15 一等奖 注数: 3 奖金 :10,000,000</a></li>
