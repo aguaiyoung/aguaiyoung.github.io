@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jul  2 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sat Jul  3 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-01 2021073期开奖号码：01,06,18,22,24,25, 蓝球：08 一等奖 注数: 4 奖金 :9,536,636</a></li>
