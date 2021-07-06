@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jul  5 09:20:05 2021 </p>
+    <p>120 links 更新时间 Tue Jul  6 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-04 2021074期开奖号码：04,05,09,14,25,27, 蓝球：07 一等奖 注数: 14 奖金 :5,822,076</a></li>
