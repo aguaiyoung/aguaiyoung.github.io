@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jul 12 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Jul 13 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-11 2021077期开奖号码：08,15,17,25,27,30, 蓝球：10 一等奖 注数: 13 奖金 :6,434,628</a></li>
