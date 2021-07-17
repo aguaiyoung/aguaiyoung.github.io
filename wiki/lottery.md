@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jul 16 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sat Jul 17 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-15 2021079期开奖号码：01,03,10,24,28,29, 蓝球：13 一等奖 注数: 8 奖金 :7,301,888</a></li>
