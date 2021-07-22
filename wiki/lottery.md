@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jul 21 09:20:05 2021 </p>
+    <p>120 links 更新时间 Thu Jul 22 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-20 2021081期开奖号码：01,03,05,18,22,23, 蓝球：01 一等奖 注数: 4 奖金 :10,000,000</a></li>
