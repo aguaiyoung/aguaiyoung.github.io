@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Jul 23 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sat Jul 24 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-22 2021082期开奖号码：03,06,11,13,26,32, 蓝球：05 一等奖 注数: 7 奖金 :7,348,639</a></li>
