@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jul 26 09:20:05 2021 </p>
+    <p>120 links 更新时间 Tue Jul 27 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-25 2021083期开奖号码：04,09,11,25,28,33, 蓝球：04 一等奖 注数: 25 奖金 :5,173,874</a></li>
