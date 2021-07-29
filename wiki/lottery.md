@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jul 28 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu Jul 29 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-27 2021084期开奖号码：05,07,09,11,21,28, 蓝球：01 一等奖 注数: 21 奖金 :5,814,345</a></li>
