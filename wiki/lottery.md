@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jul 31 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Aug  1 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-07-29 2021085期开奖号码：05,06,07,11,14,20, 蓝球：02 一等奖 注数: 4 奖金 :9,473,926</a></li>
