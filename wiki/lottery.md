@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug  2 09:20:10 2021 </p>
+    <p>120 links 更新时间 Tue Aug  3 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-01 2021086期开奖号码：06,08,10,14,28,29, 蓝球：01 一等奖 注数: 1 奖金 :10,000,000</a></li>
