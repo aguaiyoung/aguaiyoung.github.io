@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug  9 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Aug 10 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-08 2021089期开奖号码：01,02,07,13,23,24, 蓝球：12 一等奖 注数: 51 奖金 :5,338,932</a></li>
