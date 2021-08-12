@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Aug 11 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu Aug 12 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-10 2021090期开奖号码：05,06,12,14,27,28, 蓝球：08 一等奖 注数: 19 奖金 :5,534,608</a></li>
