@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Aug 14 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Aug 15 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-12 2021091期开奖号码：04,06,16,24,26,33, 蓝球：16 一等奖 注数: 4 奖金 :10,000,000</a></li>
