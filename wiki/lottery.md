@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug 16 09:20:05 2021 </p>
+    <p>120 links 更新时间 Tue Aug 17 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-15 2021092期开奖号码：02,07,08,10,12,31, 蓝球：03 一等奖 注数: 4 奖金 :9,066,769</a></li>
