@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Aug 18 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Aug 19 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-17 2021093期开奖号码：05,11,15,23,28,33, 蓝球：03 一等奖 注数: 5 奖金 :8,646,623</a></li>
