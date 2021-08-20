@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Aug 19 09:20:07 2021 </p>
+    <p>120 links 更新时间 Fri Aug 20 09:20:08 2021 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-19 2021094期开奖号码：09,11,24,25,28,33, 蓝球：15 一等奖 注数: 1 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-17 2021093期开奖号码：05,11,15,23,28,33, 蓝球：03 一等奖 注数: 5 奖金 :8,646,623</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-15 2021092期开奖号码：02,07,08,10,12,31, 蓝球：03 一等奖 注数: 4 奖金 :9,066,769</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-12 2021091期开奖号码：04,06,16,24,26,33, 蓝球：16 一等奖 注数: 4 奖金 :10,000,000</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-08 2020111期开奖号码：06,09,17,22,24,26, 蓝球：16 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-05 2020110期开奖号码：02,06,09,14,22,25, 蓝球：04 一等奖 注数: 9 奖金 :6,744,907</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-03 2020109期开奖号码：06,13,16,20,23,32, 蓝球：13 一等奖 注数: 23 奖金 :5,708,816</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2020-11-01 2020108期开奖号码：10,12,15,17,23,32, 蓝球：05 一等奖 注数: 18 奖金 :5,973,588</a></li>
         </ol>
   </body>
 </html>
