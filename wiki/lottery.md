@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Aug 28 09:20:06 2021 </p>
+    <p>120 links 更新时间 Sun Aug 29 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-26 2021097期开奖号码：03,11,12,13,25,28, 蓝球：12 一等奖 注数: 45 奖金 :5,323,421</a></li>
