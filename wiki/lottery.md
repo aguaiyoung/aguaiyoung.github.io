@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Aug 30 09:20:34 2021 </p>
+    <p>120 links 更新时间 Tue Aug 31 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-29 2021098期开奖号码：01,10,13,18,26,32, 蓝球：05 一等奖 注数: 4 奖金 :10,000,000</a></li>
