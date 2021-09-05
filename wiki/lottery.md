@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Sep  4 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Sep  5 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-02 2021100期开奖号码：07,09,12,13,14,29, 蓝球：16 一等奖 注数: 8 奖金 :7,583,366</a></li>
