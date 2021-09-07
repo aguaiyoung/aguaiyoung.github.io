@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep  6 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Sep  7 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-05 2021101期开奖号码：02,04,12,22,29,31, 蓝球：01 一等奖 注数: 6 奖金 :8,682,830</a></li>
