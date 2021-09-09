@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Sep  8 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu Sep  9 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-07 2021102期开奖号码：05,09,15,24,27,30, 蓝球：09 一等奖 注数: 34 奖金 :5,285,653</a></li>
