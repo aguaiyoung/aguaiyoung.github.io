@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Sep 11 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Sep 12 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-09 2021103期开奖号码：10,13,15,25,29,30, 蓝球：15 一等奖 注数: 2 奖金 :10,000,000</a></li>
