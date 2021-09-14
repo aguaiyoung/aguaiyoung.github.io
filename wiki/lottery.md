@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep 13 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Sep 14 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-12 2021104期开奖号码：01,07,17,20,22,28, 蓝球：15 一等奖 注数: 6 奖金 :9,475,659</a></li>
