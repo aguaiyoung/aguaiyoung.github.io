@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Sep 18 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sun Sep 19 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-16 2021106期开奖号码：01,04,07,14,30,31, 蓝球：03 一等奖 注数: 7 奖金 :8,130,452</a></li>
