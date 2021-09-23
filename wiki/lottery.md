@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Sep 22 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Sep 23 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-21 2021108期开奖号码：11,15,18,24,26,32, 蓝球：09 一等奖 注数: 5 奖金 :8,478,207</a></li>
