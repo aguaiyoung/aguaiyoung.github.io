@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Sep 27 09:20:06 2021 </p>
+    <p>120 links 更新时间 Tue Sep 28 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-09-26 2021110期开奖号码：10,13,15,24,31,32, 蓝球：02 一等奖 注数: 5 奖金 :9,736,534</a></li>
