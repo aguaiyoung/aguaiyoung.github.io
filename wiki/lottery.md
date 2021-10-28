@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Oct 27 09:20:08 2021 </p>
+    <p>120 links 更新时间 Thu Oct 28 09:20:09 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-10-26 2021122期开奖号码：04,05,12,15,18,28, 蓝球：07 一等奖 注数: 5 奖金 :8,231,591</a></li>
