@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Oct 30 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Oct 31 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-10-28 2021123期开奖号码：06,14,15,19,29,31, 蓝球：05 一等奖 注数: 6 奖金 :8,473,913</a></li>
