@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov  1 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Nov  2 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-10-31 2021124期开奖号码：01,03,18,22,29,32, 蓝球：02 一等奖 注数: 8 奖金 :7,956,250</a></li>
