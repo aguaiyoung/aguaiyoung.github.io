@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov  3 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu Nov  4 09:20:05 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-02 2021125期开奖号码：14,19,20,23,24,31, 蓝球：09 一等奖 注数: 4 奖金 :8,898,474</a></li>
