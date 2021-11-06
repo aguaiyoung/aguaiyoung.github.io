@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Nov  5 09:20:06 2021 </p>
+    <p>120 links 更新时间 Sat Nov  6 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-04 2021126期开奖号码：19,20,23,27,28,31, 蓝球：01 一等奖 注数: 6 奖金 :8,689,696</a></li>
