@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Nov  8 09:20:10 2021 </p>
+    <p>120 links 更新时间 Tue Nov  9 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-07 2021127期开奖号码：07,15,16,20,27,29, 蓝球：07 一等奖 注数: 10 奖金 :6,816,913</a></li>
