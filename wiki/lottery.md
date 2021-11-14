@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Nov 13 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Nov 14 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-11 2021129期开奖号码：04,15,21,27,28,29, 蓝球：10 一等奖 注数: 5 奖金 :7,512,285</a></li>
