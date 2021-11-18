@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 17 09:20:18 2021 </p>
+    <p>120 links 更新时间 Thu Nov 18 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-16 2021131期开奖号码：08,11,18,19,20,24, 蓝球：01 一等奖 注数: 6 奖金 :9,453,797</a></li>
