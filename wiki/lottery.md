@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Nov 19 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sat Nov 20 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-18 2021132期开奖号码：01,04,06,14,20,28, 蓝球：08 一等奖 注数: 6 奖金 :7,775,391</a></li>
