@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Nov 24 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Nov 25 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-23 2021134期开奖号码：01,02,16,19,25,31, 蓝球：08 一等奖 注数: 11 奖金 :7,491,866</a></li>
