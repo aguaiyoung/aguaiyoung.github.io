@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Nov 27 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Nov 28 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-11-25 2021135期开奖号码：03,10,17,19,21,31, 蓝球：04 一等奖 注数: 1 奖金 :10,000,000</a></li>
