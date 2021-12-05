@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Dec  4 09:20:10 2021 </p>
+    <p>120 links 更新时间 Sun Dec  5 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-02 2021138期开奖号码：11,14,15,16,27,32, 蓝球：09 一等奖 注数: 20 奖金 :5,685,347</a></li>
