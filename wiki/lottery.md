@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec  6 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Dec  7 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-05 2021139期开奖号码：12,14,19,23,24,27, 蓝球：01 一等奖 注数: 14 奖金 :7,490,724</a></li>
