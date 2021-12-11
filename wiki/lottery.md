@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Dec 10 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sat Dec 11 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-09 2021141期开奖号码：01,14,19,23,26,30, 蓝球：10 一等奖 注数: 7 奖金 :8,542,650</a></li>
