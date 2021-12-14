@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 13 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Dec 14 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-12 2021142期开奖号码：04,07,17,19,20,24, 蓝球：16 一等奖 注数: 8 奖金 :8,791,842</a></li>
