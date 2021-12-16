@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 15 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Dec 16 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-14 2021143期开奖号码：01,09,11,13,20,29, 蓝球：09 一等奖 注数: 41 奖金 :5,571,480</a></li>
