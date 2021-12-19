@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Dec 18 09:20:07 2021 </p>
+    <p>120 links 更新时间 Sun Dec 19 09:20:06 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-16 2021144期开奖号码：02,05,13,15,23,26, 蓝球：07 一等奖 注数: 5 奖金 :9,315,997</a></li>
