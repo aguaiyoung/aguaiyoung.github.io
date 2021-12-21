@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Dec 20 09:20:07 2021 </p>
+    <p>120 links 更新时间 Tue Dec 21 09:20:07 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-19 2021145期开奖号码：04,07,10,14,16,26, 蓝球：09 一等奖 注数: 10 奖金 :7,832,457</a></li>
