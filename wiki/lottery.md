@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 22 09:20:06 2021 </p>
+    <p>120 links 更新时间 Thu Dec 23 09:20:08 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-21 2021146期开奖号码：07,09,21,22,26,32, 蓝球：03 一等奖 注数: 6 奖金 :9,424,198</a></li>
