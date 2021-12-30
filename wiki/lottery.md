@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Dec 29 09:20:07 2021 </p>
+    <p>120 links 更新时间 Thu Dec 30 09:20:10 2021 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-28 2021149期开奖号码：05,10,15,18,19,32, 蓝球：05 一等奖 注数: 8 奖金 :7,864,325</a></li>
