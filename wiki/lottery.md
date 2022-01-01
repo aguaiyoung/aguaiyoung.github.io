@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri Dec 31 09:20:09 2021 </p>
+    <p>120 links 更新时间 Sat Jan  1 09:20:09 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-30 2021150期开奖号码：09,14,20,21,24,26, 蓝球：04 一等奖 注数: 37 奖金 :5,660,828</a></li>
