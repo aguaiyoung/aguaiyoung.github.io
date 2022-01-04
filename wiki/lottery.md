@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan  3 09:20:10 2022 </p>
+    <p>120 links 更新时间 Tue Jan  4 09:20:09 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-02 2022001期开奖号码：06,13,15,17,20,21, 蓝球：03 一等奖 注数: 4 奖金 :10,000,000</a></li>
