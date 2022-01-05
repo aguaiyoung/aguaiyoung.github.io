@@ -6,10 +6,17 @@
   <body>
   <center>
     <h1>github趋势TOP15爬虫结果</h1>
-    <p>1072 links 更新时间 Tue Jan  4 09:20:11 2022</p>
+    <p>1073 links 更新时间 Wed Jan  5 09:20:12 2022</p>
   </center>
     <ol align="left">
       <li>
+          <a target="_blank" href="/hotsearch/hotsearch_2022-01-05.html">
+          <font color="#F5350C" size="4">
+            github趋势TOP15 hotsearch_2022-01-05 
+          </font>
+        </a>
+        </li>
+        <li>
           <a target="_blank" href="/hotsearch/hotsearch_2022-01-04.html">
           <font color="#F5350C" size="4">
             github趋势TOP15 hotsearch_2022-01-04 
