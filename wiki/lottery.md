@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan  5 09:20:09 2022 </p>
+    <p>120 links 更新时间 Thu Jan  6 09:20:08 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-04 2022002期开奖号码：02,12,21,23,25,31, 蓝球：08 一等奖 注数: 9 奖金 :7,295,582</a></li>
