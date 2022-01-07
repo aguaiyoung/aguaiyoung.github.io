@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Jan  6 09:20:08 2022 </p>
+    <p>120 links 更新时间 Fri Jan  7 09:20:07 2022 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-06 2022003期开奖号码：02,05,16,17,18,30, 蓝球：06 一等奖 注数: 7 奖金 :7,708,412</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-04 2022002期开奖号码：02,12,21,23,25,31, 蓝球：08 一等奖 注数: 9 奖金 :7,295,582</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-02 2022001期开奖号码：06,13,15,17,20,21, 蓝球：03 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-12-30 2021150期开奖号码：09,14,20,21,24,26, 蓝球：04 一等奖 注数: 37 奖金 :5,660,828</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-06 2021036期开奖号码：01,02,06,11,21,26, 蓝球：11 一等奖 注数: 12 奖金 :6,690,644</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-04 2021035期开奖号码：12,14,18,20,26,28, 蓝球：11 一等奖 注数: 7 奖金 :7,844,638</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-01 2021034期开奖号码：04,10,12,18,23,25, 蓝球：01 一等奖 注数: 5 奖金 :8,852,481</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-03-30 2021033期开奖号码：02,12,13,14,31,33, 蓝球：06 一等奖 注数: 7 奖金 :8,001,905</a></li>
         </ol>
   </body>
 </html>
