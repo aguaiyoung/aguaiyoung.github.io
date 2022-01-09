@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jan  8 09:20:10 2022 </p>
+    <p>120 links 更新时间 Sun Jan  9 09:20:12 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-06 2022003期开奖号码：02,05,16,17,18,30, 蓝球：06 一等奖 注数: 7 奖金 :7,708,412</a></li>
