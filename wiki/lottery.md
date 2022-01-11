@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan 10 09:20:10 2022 </p>
+    <p>120 links 更新时间 Tue Jan 11 09:20:08 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-09 2022004期开奖号码：05,19,24,28,30,32, 蓝球：14 一等奖 注数: 9 奖金 :6,141,105</a></li>
