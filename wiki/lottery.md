@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 12 09:20:12 2022 </p>
+    <p>120 links 更新时间 Thu Jan 13 09:20:07 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-11 2022005期开奖号码：07,10,12,16,19,31, 蓝球：16 一等奖 注数: 2 奖金 :10,000,000</a></li>
