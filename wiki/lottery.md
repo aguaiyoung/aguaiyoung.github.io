@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Sat Jan 15 09:20:07 2022 </p>
+    <p>120 links 更新时间 Sun Jan 16 09:20:08 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-13 2022006期开奖号码：03,06,09,15,22,31, 蓝球：02 一等奖 注数: 7 奖金 :7,682,542</a></li>
