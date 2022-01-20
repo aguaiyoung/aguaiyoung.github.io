@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 19 09:20:08 2022 </p>
+    <p>120 links 更新时间 Thu Jan 20 09:20:07 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-18 2022008期开奖号码：02,03,07,09,20,21, 蓝球：13 一等奖 注数: 3 奖金 :10,000,000</a></li>
