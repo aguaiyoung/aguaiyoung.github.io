@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Mon Jan 24 09:20:11 2022 </p>
+    <p>120 links 更新时间 Tue Jan 25 09:20:07 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-23 2022010期开奖号码：12,18,19,20,21,32, 蓝球：15 一等奖 注数: 7 奖金 :7,878,499</a></li>
