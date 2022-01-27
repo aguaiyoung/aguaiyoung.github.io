@@ -6,7 +6,7 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jan 26 09:20:10 2022 </p>
+    <p>120 links 更新时间 Thu Jan 27 09:20:07 2022 </p>
   </center>
     <ol align="left">
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-25 2022011期开奖号码：06,15,23,24,25,33, 蓝球：15 一等奖 注数: 4 奖金 :10,000,000</a></li>
