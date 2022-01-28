@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Thu Jan 27 09:20:07 2022 </p>
+    <p>120 links 更新时间 Fri Jan 28 09:20:13 2022 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-27 2022012期开奖号码：04,07,08,29,30,31, 蓝球：01 一等奖 注数: 9 奖金 :7,305,724</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-25 2022011期开奖号码：06,15,23,24,25,33, 蓝球：15 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-23 2022010期开奖号码：12,18,19,20,21,32, 蓝球：15 一等奖 注数: 7 奖金 :7,878,499</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-01-20 2022009期开奖号码：04,15,17,19,25,28, 蓝球：16 一等奖 注数: 1 奖金 :10,000,000</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-27 2021045期开奖号码：01,04,14,15,17,32, 蓝球：02 一等奖 注数: 6 奖金 :8,717,208</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-25 2021044期开奖号码：05,07,14,17,26,28, 蓝球：13 一等奖 注数: 5 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-22 2021043期开奖号码：02,03,17,18,23,24, 蓝球：01 一等奖 注数: 3 奖金 :10,000,000</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-04-20 2021042期开奖号码：05,09,10,22,25,27, 蓝球：08 一等奖 注数: 26 奖金 :5,498,446</a></li>
         </ol>
   </body>
 </html>
