@@ -9,4 +9,4 @@ rm -rf _site/
 git status ./
 git add ./
 git commit -a -m "updated wiki"
-git push origin master
+git push origin master --force
