@@ -6,9 +6,10 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Fri May 27 11:50:26 2022 </p>
+    <p>120 links 更新时间 Wed Jun  1 09:21:49 2022 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-31 2022061期开奖号码：01,03,16,18,29,33, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-29 2022060期开奖号码：16,18,19,24,28,32, 蓝球：01 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-26 2022059期开奖号码：06,09,18,19,29,33, 蓝球：06 一等奖 注数: 20 奖金 :5,714,126</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-24 2022058期开奖号码：06,13,14,23,31,33, 蓝球：01 一等奖 注数: 10 奖金 :6,841,671</a></li>
@@ -128,7 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-19 2021094期开奖号码：09,11,24,25,28,33, 蓝球：15 一等奖 注数: 1 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-17 2021093期开奖号码：05,11,15,23,28,33, 蓝球：03 一等奖 注数: 5 奖金 :8,646,623</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-15 2021092期开奖号码：02,07,08,10,12,31, 蓝球：03 一等奖 注数: 4 奖金 :9,066,769</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-12 2021091期开奖号码：04,06,16,24,26,33, 蓝球：16 一等奖 注数: 4 奖金 :10,000,000</a></li>
         </ol>
   </body>
 </html>
