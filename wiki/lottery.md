@@ -6,9 +6,11 @@
   <body>
   <center>
     <h1>新浪彩票爬虫结果</h1>
-    <p>120 links 更新时间 Wed Jun  1 09:21:49 2022 </p>
+    <p>120 links 更新时间 Mon Jun  6 09:20:03 2022 </p>
   </center>
     <ol align="left">
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-06-05 2022063期开奖号码：06,08,09,17,22,31, 蓝球：11 一等奖 注数: 20 奖金 :5,417,818</a></li>
+        <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-06-02 2022062期开奖号码：16,18,20,21,23,33, 蓝球：05 一等奖 注数: 5 奖金 :8,563,331</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-31 2022061期开奖号码：01,03,16,18,29,33, 蓝球：06 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-29 2022060期开奖号码：16,18,19,24,28,32, 蓝球：01 一等奖 注数: 3 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2022-05-26 2022059期开奖号码：06,09,18,19,29,33, 蓝球：06 一等奖 注数: 20 奖金 :5,714,126</a></li>
@@ -127,8 +129,6 @@
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-24 2021096期开奖号码：01,07,11,14,15,26, 蓝球：11 一等奖 注数: 13 奖金 :5,640,531</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-22 2021095期开奖号码：08,12,17,24,27,28, 蓝球：13 一等奖 注数: 4 奖金 :10,000,000</a></li>
         <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-19 2021094期开奖号码：09,11,24,25,28,33, 蓝球：15 一等奖 注数: 1 奖金 :10,000,000</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-17 2021093期开奖号码：05,11,15,23,28,33, 蓝球：03 一等奖 注数: 5 奖金 :8,646,623</a></li>
-        <li><a href="http://zst.aicai.com/ssq/openInfo/">2021-08-15 2021092期开奖号码：02,07,08,10,12,31, 蓝球：03 一等奖 注数: 4 奖金 :9,066,769</a></li>
         </ol>
   </body>
 </html>
