@@ -8,6 +8,15 @@
 
 var myPlaylist = [
      {
+        mp3:'mix/231204fa_fact_witt_apple.mp3',
+        title:'How Jensen Huang’s Nvidia Is Powering the A.I. Revolution',
+        artist:'Stephen Witt',
+        rating:4.0,
+        buy:'#',
+        duration:'43:25',
+        cover:'mix/sunset.png'
+     },
+     {
         mp3:'mix/2006-04-03.mp3',
         title:'2006-04-03 ss b',
         artist:'Jade Wang',
@@ -33,14 +42,5 @@ var myPlaylist = [
         buy:'#',
         duration:'4:32',
         cover:'mix/nanfang.png'
-    },
-    {
-        oga:'mix/231204fa_fact_witt_apple.mp3',
-        title:'How Jensen Huang’s Nvidia Is Powering the A.I. Revolution',
-        artist:'Stephen Witt',
-        rating:4.0,
-        buy:'#',
-        duration:'43:25',
-        cover:'mix/sunset.png'
     }
 ];
