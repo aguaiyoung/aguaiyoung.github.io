@@ -33,7 +33,7 @@ var myPlaylist = [
         buy:'#',
         duration:'4:32',
         cover:'mix/nanfang.png'
-    }，
+    },
     {
         oga:'mix/231204fa_fact_witt_apple.mp3',
         title:'How Jensen Huang’s Nvidia Is Powering the A.I. Revolution',
