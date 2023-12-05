@@ -11,7 +11,7 @@ var myPlaylist = [
         mp3:'mix/231204fa_fact_witt_apple.mp3',
         title:'How Jensen Huang’s Nvidia Is Powering the A.I. Revolution',
         artist:'Stephen Witt',
-        rating:4.0,
+        rating:5.0,
         buy:'#',
         duration:'43:25',
         cover:'mix/sunset.png'
